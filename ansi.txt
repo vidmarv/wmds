@@ -1,0 +1,2 @@
+This is a test file encoded in ANSI.
+It contains a number of special character like µ (micro; &#181;), Åø (Ångstrøm, &#197; &#248;), Ü (capital U with Umlaut, &#220;), ² (superscript 2, &#178;)

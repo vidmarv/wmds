@@ -1,0 +1,2 @@
+This is a test file encoded in UTF-8.
+It contains a number of special character like α (alpha, &#593;), µ (micro, &#181;), Åø (Ångstrøm, &#197; &#248;), δ (greek small delta, &#948;), Ü (capital U with Umlaut, &#220;), ² (superscript 2, &#178;)
