@@ -1,0 +1,745 @@
+"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"576","","\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-)","Acetate (CH3COO-)",NA
+"294","","\Atmosphere\Total Atmospheric Deposition\Acidity/Alkalinity","Acidity/Alkalinity",NA
+"579","","\Atmosphere\Aerosol\Composition\Acidity/Alkalinity, total aerosol","Acidity/Alkalinity, total aerosol",NA
+"37","","\Atmosphere\Aerological soundings","Aerological soundings",NA
+"10001","","\Atmosphere\Aerosol","Aerosol",NA
+"314","","\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth","Aerosol Absorption Optical Depth","Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K. &Delta z) where K is the absorption coefficient [km<sup>-1</sup>] and &Delta z the vertical path [km]"
+"361","","\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density)","Aerosol column burden (mass density)","2D field of the column burden of condensed particles in the atmosphere "
+"727","","\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass)","Aerosol dust concentration (mass)","3-D field of concentration of dust or sand in the atmosphere"
+"362","","\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius","Aerosol effective radius","3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
+"315","","\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient","Aerosol Extinction Coefficient","3D field of spectral volumetric extinction cross-section of aerosol particles."
+"728","","\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration)","Aerosol volcanic ash (mass concentration)","3D field of mass mixing ratio of volcanic ash"
+"729","","\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column)","Aerosol volcanic ash (Total column)","Field of total column mass of volcanic ash"
+"224","","\Atmosphere\Temperature\Air temperature (at specified distance from reference surface)","Air temperature (at specified distance from reference surface)",NA
+"511","","\Outer Space\Energetic particles / solar wind \Particle flux\Alpha particles differential directional flux","Alpha particles differential directional flux",NA
+"512","","\Outer Space\Energetic particles / solar wind \Particle flux\Alpha particles integral directional flux","Alpha particles integral directional flux","An alpha particle has positive charge and consists of two protons and two neutrons (the nucleus of a helium atom). Flux is the rate of flow through a reference surface, measured in particles per unit area.The directional flux is the flux limited to a certain solid angle as a function of the direction (pitch angle)."
+"597","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Aluminium (Al)","Aluminium (Al)",NA
+"673","","\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), PM2.5","Aluminium (Al), PM2.5",NA
+"674","","\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), total aerosol","Aluminium (Al), total aerosol",NA
+"390","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\Ammonia (NH3)","Ammonia (NH3)",NA
+"644","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonia (NH3), PM2.5","Ammonia (NH3), PM2.5",NA
+"568","","\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+)","Ammonium (NH4+)",NA
+"645","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM10","Ammonium (NH4+), PM10",NA
+"646","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM2.5","Ammonium (NH4+), PM2.5",NA
+"647","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), total aerosol","Ammonium (NH4+), total aerosol",NA
+"649","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), PM1","Ammonium nitrate (NH4NO3), PM1",NA
+"648","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), total aerosol","Ammonium nitrate (NH4NO3), total aerosol",NA
+"210","","\Atmosphere\Precipitation\Amount of precipitation","Amount of precipitation",NA
+"675","","\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), PM2.5","Antimony (Sb), PM2.5",NA
+"676","","\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), total aerosol","Antimony (Sb), total aerosol",NA
+"598","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Arsenic (As)","Arsenic (As)",NA
+"677","","\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), PM10","Arsenic (As), PM10",NA
+"678","","\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), total aerosol","Arsenic (As), total aerosol",NA
+"10000","","\Atmosphere","Atmosphere",NA
+"39","","\Atmosphere\Atmospheric density","Atmospheric density","3D field of density of the atmosphere"
+"216","","\Atmosphere\Pressure\Atmospheric pressure","Atmospheric pressure",NA
+"12000","","\Atmosphere\Pressure\Atmospheric pressure profile","Atmospheric pressure profile","Upper-air atmospheric pressure"
+"114","","\Outer Space\Ionospheric disturbances\Aurora","Aurora","Occurence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field."
+"267","","\Atmosphere\Radiation\Background luminance","Background luminance",NA
+"679","","\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), PM2.5","Barium (Ba), PM2.5",NA
+"680","","\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), total aerosol","Barium (Ba), total aerosol",NA
+"10076","","\Ocean\Basic Physical Properties","Basic Physical Properties",NA
+"13","","\Ocean\Topography\Bathymetry","Bathymetry",NA
+"219","","\Atmosphere\Radionuclide\Beryllium [Be-7]","Beryllium [Be-7]",NA
+"10067","","\Ocean\Biology","Biology",NA
+"423","","\Terrestrial\Land surface\Vegetation\Biomass","Biomass","Total amount of vegetation in a reference area - Physical unit: [ t/ha (tons/hectare) ] - Accuracy unit: [ t/ha ]"
+"681","","\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), PM2.5","Bismuth (Bi), PM2.5",NA
+"682","","\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), total aerosol","Bismuth (Bi), total aerosol",NA
+"231","","\Terrestrial\Land surface\Breaking action/friction coefficient","Breaking action/friction coefficient",NA
+"274","","\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide)","BrO (bromine monoxide)",NA
+"538","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-)","Bromide (Br-)",NA
+"375","","\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol",NA
+"376","","\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air",NA
+"377","","\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol","C12H8Cl6 (aldrin), in air and aerosol",NA
+"378","","\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in total precipitation","C12H8Cl6 (aldrin), in total precipitation",NA
+"379","","\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in wet precipitation","C12H8Cl6 (aldrin), in wet precipitation",NA
+"334","","\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air","C13H10 (9H-fluorene, fluorene), in air",NA
+"336","","\Atmosphere\POPs\PAH\C14H10 (anthracene), in aerosol","C14H10 (anthracene), in aerosol",NA
+"338","","\Atmosphere\POPs\PAH\C14H10 (anthracene), in air","C14H10 (anthracene), in air",NA
+"337","","\Atmosphere\POPs\PAH\C14H10 (anthracene), in air and aerosol","C14H10 (anthracene), in air and aerosol",NA
+"335","","\Atmosphere\POPs\PAH\C14H10 (anthracene), PM10","C14H10 (anthracene), PM10",NA
+"340","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in aerosol","C14H10 (phenanthrene), in aerosol",NA
+"341","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air","C14H10 (phenanthrene), in air",NA
+"342","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air and aerosol","C14H10 (phenanthrene), in air and aerosol",NA
+"344","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in total precipitation","C14H10 (phenanthrene), in total precipitation",NA
+"343","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in wet deposition","C14H10 (phenanthrene), in wet deposition",NA
+"339","","\Atmosphere\POPs\PAH\C14H10 (phenanthrene), PM10","C14H10 (phenanthrene), PM10",NA
+"345","","\Atmosphere\POPs\PAH\C16H10 (pyrene), in air and aerosol","C16H10 (pyrene), in air and aerosol",NA
+"347","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in aerosol","C18H12 (Benz(a)anthracene), in aerosol",NA
+"348","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air","C18H12 (Benz(a)anthracene), in air",NA
+"349","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol","C18H12 (Benz(a)anthracene), in air and aerosol",NA
+"350","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation","C18H12 (Benz(a)anthracene), in precipitation",NA
+"351","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation","C18H12 (Benz(a)anthracene), in total precipitation",NA
+"346","","\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), PM10","C18H12 (Benz(a)anthracene), PM10",NA
+"589","","\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)",NA
+"590","","\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)",NA
+"275","","\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene)","C2Cl4 (tetrachloroethene)",NA
+"591","","\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",NA
+"419","","\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",NA
+"434","","\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)","C2H2 (ethyne, acetylene)",NA
+"554","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",NA
+"435","","\Atmosphere\Gas\Reactive Gas\VOC\C2H2O2 (oxaldehyde, ethanedial)","C2H2O2 (oxaldehyde, ethanedial)",NA
+"534","","\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",NA
+"535","","\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",NA
+"536","","\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",NA
+"663","","\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), in aerosol",NA
+"662","","\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1",NA
+"391","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\C2H3O5N (peroxyacetylnitrate, PAN)","C2H3O5N (peroxyacetylnitrate, PAN)",NA
+"436","","\Atmosphere\Gas\Reactive Gas\VOC\C2H4 (ethene)","C2H4 (ethene)",NA
+"555","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)",NA
+"437","","\Atmosphere\Gas\Reactive Gas\VOC\C2H6 (ethane)","C2H6 (ethane)",NA
+"438","","\Atmosphere\Gas\Reactive Gas\VOC\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",NA
+"90","","\Ocean\Reactive Gas\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",NA
+"276","","\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene)","C2HCl3 (trichloroethene)",NA
+"556","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)",NA
+"664","","\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1",NA
+"665","","\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10",NA
+"666","","\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), total aerosol",NA
+"420","","\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",NA
+"557","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)",NA
+"558","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)",NA
+"441","","\Atmosphere\Gas\Reactive Gas\VOC\C3H4O2 (2-oxopropanal, methylglyoxal)","C3H4O2 (2-oxopropanal, methylglyoxal)",NA
+"440","","\Atmosphere\Gas\Reactive Gas\VOC\C3H4O (prop-2-enal, acrolein)","C3H4O (prop-2-enal, acrolein)",NA
+"439","","\Atmosphere\Gas\Reactive Gas\VOC\C3H4 (propyne)","C3H4 (propyne)",NA
+"443","","\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (acetone, propanone)","C3H6O (acetone, propanone)",NA
+"444","","\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (propanal)","C3H6O (propanal)",NA
+"442","","\Atmosphere\Gas\Reactive Gas\VOC\C3H6 (propene)","C3H6 (propene)",NA
+"445","","\Atmosphere\Gas\Reactive Gas\VOC\C3H8 (propane)","C3H8 (propane)",NA
+"559","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)",NA
+"560","","\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",NA
+"446","","\Atmosphere\Gas\Reactive Gas\VOC\C4H6 (1,3-butadiene, butadiene)","C4H6 (1,3-butadiene, butadiene)",NA
+"447","","\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (2-methylprop-2-enal, methacrolein)","C4H6O (2-methylprop-2-enal, methacrolein)",NA
+"448","","\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (but-3-en-2-one, methylvinylketone)","C4H6O (but-3-en-2-one, methylvinylketone)",NA
+"449","","\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (1-butene)","C4H8 (1-butene)",NA
+"451","","\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butan-2-one, methylethylketone)","C4H8O (butan-2-one, methylethylketone)",NA
+"452","","\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butanal isomers)","C4H8O (butanal isomers)",NA
+"450","","\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (sum of butenes)","C4H8 (sum of butenes)",NA
+"453","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (1-pentene)","C5H10 (1-pentene)",NA
+"454","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-1-butene)","C5H10 (2-methyl-1-butene)",NA
+"455","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene)","C5H10 (2-methyl-2-butene)",NA
+"456","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene)","C5H10 (3-methyl-1-butene)",NA
+"457","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane)","C5H10 (cyclopentane)",NA
+"460","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)","C5H10O (pentanal, valeraldehyde)",NA
+"458","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene)","C5H10 (sum of 1-pentene & 2-methyl-2-butene)",NA
+"459","","\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes)","C5H10 (sum of pentenes)",NA
+"462","","\Atmosphere\Gas\Reactive Gas\VOC\C5H12 (2,2-dimethylpropane)","C5H12 (2,2-dimethylpropane)",NA
+"461","","\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)","C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",NA
+"463","","\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)","C5H14 (2,3-dimethylbutane)",NA
+"464","","\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)","C5H8 (2-methyl-1,3-butadiene, isoprene)",NA
+"465","","\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene)","C5H8 (cyclopentene)",NA
+"466","","\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)","C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)",NA
+"467","","\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)","C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)",NA
+"380","","\Atmosphere\POPs\POP\C6Cl6 (hexachlorobenzene, HCB), in air","C6Cl6 (hexachlorobenzene, HCB), in air",NA
+"468","","\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane)","C6H12 (cyclohexane)",NA
+"469","","\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane)","C6H12 (methylcyclopentane)",NA
+"470","","\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers)","C6H12O (hexanal isomers)",NA
+"471","","\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2,2-dimethylbutane)","C6H14 (2,2-dimethylbutane)",NA
+"472","","\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2-methylpentane)","C6H14 (2-methylpentane)",NA
+"473","","\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (3-methylpentane)","C6H14 (3-methylpentane)",NA
+"474","","\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane)","C6H14 (n-hexane)",NA
+"475","","\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes)","C6H14 (sum of methylpentanes)",NA
+"476","","\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene)","C6H6 (benzene)",NA
+"381","","\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol",NA
+"382","","\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air",NA
+"383","","\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation",NA
+"384","","\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air",NA
+"385","","\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation",NA
+"478","","\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane",NA
+"479","","\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane",NA
+"477","","\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)","C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)",NA
+"480","","\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes)","C7H16 (sum of methylhexanes)",NA
+"481","","\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde)","C7H6O (benzene carbaldehyde)",NA
+"482","","\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene)","C7H8 (toluene)",NA
+"483","","\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (ethylbenzene)","C8H10 (ethylbenzene)",NA
+"484","","\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (m-xylene)","C8H10 (m-xylene)",NA
+"485","","\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (o-xylene)","C8H10 (o-xylene)",NA
+"486","","\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (p,m-xylene)","C8H10 (p,m-xylene)",NA
+"487","","\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,2,4-trimethylbenzene)","C9H12 (1,2,4-trimethylbenzene)",NA
+"488","","\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)","C9H12 (1,3,5-trimethylbenzene)",NA
+"599","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Cadmium (Cd)","Cadmium (Cd)",NA
+"683","","\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM1","Cadmium (Cd), PM1",NA
+"684","","\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM10","Cadmium (Cd), PM10",NA
+"685","","\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5","Cadmium (Cd), PM2.5",NA
+"686","","\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5 thru PM10","Cadmium (Cd), PM2.5 thru PM10",NA
+"687","","\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), total aerosol","Cadmium (Cd), total aerosol",NA
+"545","","\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++)","Calcium (Ca++)",NA
+"632","","\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10","Calcium (Ca++), PM10",NA
+"633","","\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5","Calcium (Ca++), PM2.5",NA
+"634","","\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol","Calcium (Ca++), total aerosol",NA
+"670","","\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (coarse), PM10","Carbonaceous/organic material (coarse), PM10",NA
+"671","","\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (fine)","Carbonaceous/organic material (fine)",NA
+"10116","","\Ocean\Miscellaneous\Carbon species","Carbon species",NA
+"332","","\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211)","CBrClF2 (Halon 1211)",NA
+"333","","\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",NA
+"495","","\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene)","c-C4H8 (cis-2-butene)",NA
+"496","","\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene)","c-C5H10 (cis-2-pentene)",NA
+"592","","\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",NA
+"593","","\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",NA
+"594","","\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CCl4 (carbon tetrachloride)","CCl4 (carbon tetrachloride)",NA
+"411","","\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation","CCN concentration at single supersaturation",NA
+"412","","\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra","CCN concentration spectra",NA
+"688","","\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), PM2.5","Cerium (Ce), PM2.5",NA
+"689","","\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), total aerosol","Cerium (Ce), total aerosol",NA
+"421","","\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)",NA
+"10024","","\Atmosphere\Gas\Greenhouse Gas\CFCs","CFCs",NA
+"277","","\Atmosphere\Gas\Reactive Gas\CH2Br2 (dibromomethane)","CH2Br2 (dibromomethane)",NA
+"278","","\Atmosphere\Gas\Reactive Gas\CH2Cl2 (dichloromethane)","CH2Cl2 (dichloromethane)",NA
+"561","","\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)",NA
+"489","","\Atmosphere\Gas\Reactive Gas\VOC\CH2O (formaldehyde)","CH2O (formaldehyde)",NA
+"279","","\Atmosphere\Gas\Reactive Gas\CH3Br (methylbromide)","CH3Br (methylbromide)",NA
+"595","","\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)","CH3CCl3 (1,1,1-trichloroethane)",NA
+"490","","\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol)","CH3CH2OH (ethanol)",NA
+"491","","\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)","CH3CHO (acetaldehyde, ethanal)",NA
+"280","","\Atmosphere\Gas\Reactive Gas\CH3Cl (methylchloride)","CH3Cl (methylchloride)",NA
+"492","","\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile)","CH3CN (acetonitrile)",NA
+"281","","\Atmosphere\Gas\Reactive Gas\CH3I (methyliodide)","CH3I (methyliodide)",NA
+"667","","\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), PM1","CH3O3S- (methanesulfonate), PM1",NA
+"668","","\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), total aerosol","CH3O3S- (methanesulfonate), total aerosol",NA
+"493","","\Atmosphere\Gas\Reactive Gas\VOC\CH3OH (methanol)","CH3OH (methanol)",NA
+"192","","\Atmosphere\Gas\Greenhouse Gas\CH4","CH4","1D variable colloquially referred to as &ldquo wave spectrum&rdquo. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
+"193","","\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13]","CH4 [C-13]",NA
+"217","","\Atmosphere\Pressure\Characteristic of pressure tendency","Characteristic of pressure tendency",NA
+"282","","\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform)","CHBr3 (bromoform)",NA
+"283","","\Atmosphere\Gas\Reactive Gas\CHCl3 (chloroform)","CHCl3 (chloroform)",NA
+"537","","\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)",NA
+"562","","\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)",NA
+"539","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-)","Chloride (Cl-)",NA
+"614","","\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",NA
+"615","","\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Chloride (Cl-), PM10",NA
+"616","","\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Chloride (Cl-), PM2.5",NA
+"617","","\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Chloride (Cl-), total aerosol",NA
+"71","","\Ocean\Biology\Chlorophyll concentration ","Chlorophyll concentration ","Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m<sup>3</sup> for a given concentration of 1 mg/m<sup>3</sup> ."
+"669","","\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), in aerosol",NA
+"600","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Chromium (Cr)","Chromium (Cr)",NA
+"690","","\Atmosphere\Aerosol\Composition\Trace elements\Chromium (Cr), total aerosol","Chromium (Cr), total aerosol",NA
+"286","","\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide)","ClO (chlorine monoxide)",NA
+"392","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate)","ClONO2 (chlorine nitrate)",NA
+"179","","\Atmosphere\Clouds\Cloud amount","Cloud amount",NA
+"180","","\Atmosphere\Clouds\Cloud cover","Cloud cover",NA
+"181","","\Atmosphere\Clouds\Cloud drop effective radius","Cloud drop effective radius","Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+"182","","\Atmosphere\Clouds\Cloud hydrometeor concentration","Cloud hydrometeor concentration",NA
+"327","","\Atmosphere\Clouds\Ice\Cloud ice","Cloud ice","3D field of atmospheric water in the solid phase (precipitating or not). "
+"329","","\Atmosphere\Clouds\Ice\Cloud ice effective radius","Cloud ice effective radius","Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
+"328","","\Atmosphere\Clouds\Ice\Cloud ice (total column)","Cloud ice (total column)","Field of atmospheric water in the solid phase (precipitating or not) as total column."
+"373","","\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW)","Cloud liquid water (CLW)","3D field of atmospheric water in the liquid phase (precipitating or not)."
+"374","","\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)","Field of atmospheric water in the liquid phase (precipitating or not)."
+"506","","\Atmosphere\Clouds\Optical properties\Cloud optical depth","Cloud optical depth","Effective depth of a cloud from the viewpoint of radiation propagation. OD = exp(-K.&Deltaz) where K is the extinction coefficient [km<sup>-1</sup> ] and &Delta z the vertical path [km] between the base and the top of the cloud"
+"10016","","\Atmosphere\Clouds","Clouds",NA
+"284","","\Atmosphere\Gas\Reactive Gas\CO","CO",NA
+"194","","\Atmosphere\Gas\Greenhouse Gas\CO2","CO2",NA
+"195","","\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13]","CO2 [C-13]",NA
+"220","","\Atmosphere\Radionuclide\CO2 [C-14]","CO2 [C-14]",NA
+"422","","\Terrestrial\Land surface\Greenhouse Gas\CO2 flux","CO2 flux","Flux of carbon dioxide from the surface to the atmosphere"
+"196","","\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18]","CO2 [O-18]",NA
+"96","","\Ocean\Topography\Coastal sea level (tide)","Coastal sea level (tide)","Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
+"232","","\Terrestrial\Land surface\Coastlines","Coastlines","Location of coastlines (Lat/Long)"
+"601","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Cobalt (Co)","Cobalt (Co)",NA
+"691","","\Atmosphere\Aerosol\Composition\Trace elements\Cobalt (Co), total aerosol","Cobalt (Co), total aerosol",NA
+"285","","\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)","COF2 (difluoromethanal, carbonyl fluoride)",NA
+"10002","","\Atmosphere\Aerosol\Composition","Composition",NA
+"731","","\Ocean\Basic Physical Properties\Conductivity","Conductivity","Conductivity measured by CTD or MicroCAT"
+"602","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Copper (Cu)","Copper (Cu)",NA
+"692","","\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), PM10","Copper (Cu), PM10",NA
+"693","","\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), total aerosol","Copper (Cu), total aerosol",NA
+"513","","\Outer Space\Energetic particles / solar wind \Particle flux\Cosmic ray neutron flux spectrum","Cosmic ray neutron flux spectrum","Flux density energy spectrum of neutrons from the Sun or as component of the cosmic radiation."
+"428","","\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)","COS (OCS, carbon oxide sulfide, carbonyl sulfide)",NA
+"6","","\Earth\Crustal motion (horizontal and vertical)","Crustal motion (horizontal and vertical)","Changes in time of the position and height of the Earth plates. Indicative of the lithosphere dynamics, thus useful for earthquake prediction - Physical unit: [ mm/y ] - Accuracy unit: [ mm/y ]."
+"7","","\Earth\Crustal plates positioning","Crustal plates positioning","Basis for monitoring the evolution of the lithosphere dynamics - Physical unit: [ cm ] - Accuracy unit: [ cm ]."
+"429","","\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide)","CS2 (Carbon disulfide)",NA
+"10071","","\Ocean\Other Gas\CTD","CTD",NA
+"10082","","\Ocean\Transmissivity\CTD","CTD",NA
+"10065","","\Ocean\Currents","Currents",NA
+"732","","\Ocean\Basic Physical Properties\Density","Density","Density measured by CTD"
+"627","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Depth of fresh snowfall","Depth of fresh snowfall",NA
+"225","","\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface)","Dew-point temperature (at specified distance from reference surface)",NA
+"70","","\Ocean\Miscellaneous\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
+"571","","\Atmosphere\Radiation\Solar\Diffuse solar radiation","Diffuse solar radiation",NA
+"745","","\Ocean\Waves\Directional waves","Directional waves","Waves measured in X,Y,Z directions"
+"304","","\Atmosphere\Wind\Direction of cloud movement","Direction of cloud movement",NA
+"572","","\Atmosphere\Radiation\Solar\Direct solar radiation","Direct solar radiation",NA
+"67","","\Ocean\Miscellaneous\Carbon species\Dissolved inorganic carbon (DIC)","Dissolved inorganic carbon (DIC)","The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution."
+"68","","\Ocean\Miscellaneous\Carbon species\Dissolved organic carbon","Dissolved organic carbon",NA
+"69","","\Ocean\Miscellaneous\Nitrogen species\Dissolved organic nitrogen","Dissolved organic nitrogen",NA
+"98","","\Ocean\Waves\Dominant wave direction","Dominant wave direction","One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum - Physical unit: [ degrees ] - Accuracy unit: [ degrees ]."
+"99","","\Ocean\Waves\Dominant wave period","Dominant wave period","The period of the most energetic wave in the ocean wave spectrum."
+"211","","\Atmosphere\Precipitation\Duration of precipitation","Duration of precipitation",NA
+"10013","","\Atmosphere\Aerosol\Physical properties - primary\Dust","Dust",NA
+"10022","","\Atmosphere\Dynamics","Dynamics",NA
+"10062","","\Earth","Earth",NA
+"8","","\Earth\Earth Rotation","Earth Rotation","Rotation velocity of the Earth, determining the length of the day - Physical unit: [Rad/s] - Accuracy unit: [Arcsec/century]."
+"183","","\Atmosphere\Clouds\Effective radius of cloud hydrometeors","Effective radius of cloud hydrometeors",NA
+"295","","\Atmosphere\Total Atmospheric Deposition\Electric conductivity","Electric conductivity",NA
+"115","","\Outer Space\Ionospheric disturbances\Electric Field","Electric Field","Magnitude and direction of the Earth's electriv field"
+"116","","\Outer Space\Ionospheric disturbances\Electron Density","Electron Density","3-D field of the electron density in the ionosphere"
+"514","","\Outer Space\Energetic particles / solar wind \Particle flux\Electron differential directional flux","Electron differential directional flux","Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle"
+"515","","\Outer Space\Energetic particles / solar wind \Particle flux\Electron flux density","Electron flux density","Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."
+"104","","\Outer Space\Energetic particles / solar wind \Electron flux energy spectrum","Electron flux energy spectrum","Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."
+"516","","\Outer Space\Energetic particles / solar wind \Particle flux\Electron integral directional flux","Electron integral directional flux","Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
+"105","","\Outer Space\Energetic particles / solar wind \Electrostatic charge","Electrostatic charge","Measurement of the electrostatic charge of a satellite accumulated because of the environmental situation."
+"623","","\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon (coarse), PM10","Elemental carbon (coarse), PM10",NA
+"624","","\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",NA
+"625","","\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",NA
+"10086","","\Outer Space\Energetic particles / solar wind ","Energetic particles / solar wind ",NA
+"127","","\Outer Space\Solar monitoring\EUV flux","EUV flux","Radiative flux integrated over the EUV band."
+"128","","\Outer Space\Solar monitoring\EUV flux spectrum","EUV flux spectrum","Energy spectrum of the radiative flux measured in the EUV band."
+"129","","\Outer Space\Solar monitoring\EUV sky image","EUV sky image","EUV image of the sky"
+"510","","\Terrestrial\Land surface\Humidity\Evaporation","Evaporation","Quantity of water evaporated from the soil and plants when the ground is at its natural moisture content."
+"521","","\Atmosphere\Visibility\Obscurations\Extinction coefficient","Extinction coefficient",NA
+"226","","\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",NA
+"10098","","\Terrestrial\Land surface\Fire","Fire",NA
+"386","","\Terrestrial\Land surface\Fire\Fire fractional cover","Fire fractional cover","Fraction of a land area where fire is occurring"
+"387","","\Terrestrial\Land surface\Fire\Fire radiative power","Fire radiative power","Power radiated by the fire occurring within an area"
+"388","","\Terrestrial\Land surface\Fire\Fire temperature","Fire temperature","Temperature of the fire occurring within an area "
+"739","","\Ocean\Miscellaneous\Fluorescence (DOM)","Fluorescence (DOM)","Flurometric  colored dissolved Organic matter concentration"
+"540","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-)","Fluoride (F-)",NA
+"618","","\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","Fluoride (F-), total aerosol",NA
+"123","","\Outer Space\Ionospheric disturbances\foEs","foEs","The highest ordinary-wave frequency reflected back from a sporadic E layer and observed by an ionosonde."
+"124","","\Outer Space\Ionospheric disturbances\foF2","foF2","Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm<sup>-3</sup>): f=9*10<sup>-3</sup>*sqrt(Ne)."
+"577","","\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-)","Formate (HCOO-)",NA
+"563","","\Terrestrial\Land surface\Radiation\Fraction of Absorbed PAR (FAPAR)","Fraction of Absorbed PAR (FAPAR)","Fraction of PAR absorbed by vegetation (land or marine) for photosynthesis processes (generally around the 'red' )"
+"424","","\Terrestrial\Land surface\Vegetation\Fraction of vegetated land","Fraction of vegetated land","Fraction of a land area where vegetation is present"
+"330","","\Atmosphere\Clouds\Ice\Freezing level height in clouds","Freezing level height in clouds","Height of the atmospheric layer in cloud where liquid-solid states transform into each other"
+"130","","\Outer Space\Solar monitoring\Gamma-ray flux","Gamma-ray flux","Radiative flux integrated over the gamma-ray domain."
+"131","","\Outer Space\Solar monitoring\Gamma-ray flux spectrum","Gamma-ray flux spectrum","Energy spectrum of the radiative flux measured in the gamma-ray domain."
+"12003","","\Atmosphere\Gas","Gas",NA
+"9","","\Earth\Geoid","Geoid","Equipotential surface which would coincide exactly with the mean ocean surface of the Earth, if the oceans were in equilibrium, at rest, and extended through the continents (such as with very narrow channels) - Physical unit: [ cm ] - Accuracy unit: [ cm ]."
+"10","","\Earth\Geomagnetic field","Geomagnetic field","Magnitude and direction of the 3D magnetic field on the surface of Earth and within the magnetosphere (i.e., in low-Earth orbit and in geosynchronous orbit)."
+"10103","","\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier","Glacier",NA
+"610","","\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier cover","Glacier cover","Fraction of a land area covered by permanent ice "
+"611","","\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier motion","Glacier motion","Velocity of the ice measured at the surface of a glacier "
+"612","","\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier topography","Glacier topography","Map of the height of the glacier surface."
+"573","","\Atmosphere\Radiation\Solar\Global solar radiation (downwelling)","Global solar radiation (downwelling)",NA
+"574","","\Atmosphere\Radiation\Solar\Global solar radiation (upwelling)","Global solar radiation (upwelling)",NA
+"11","","\Earth\Gravity field","Gravity field","Indicative of the statics and dynamics of the lithosphere and the mantle - Physical unit: [ mGal ] where : 1 Gal = 0.01 m.s<sup>-2</sup>"
+"12","","\Earth\Gravity gradients","Gravity gradients","Gradient of the Earth¿ gravity field measured at the satellite orbital height - Physical unit: [ E ] , E?tv?s (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."
+"10023","","\Atmosphere\Gas\Greenhouse Gas","Greenhouse Gas",NA
+"10099","","\Terrestrial\Land surface\Greenhouse Gas","Greenhouse Gas",NA
+"10115","","\Ocean\Greenhouse Gas","Greenhouse Gas",NA
+"10092","","\Terrestrial\Ground water","Ground water",NA
+"165","","\Terrestrial\Ground water\Ground water (amount per unit area)","Ground water (amount per unit area)","Amount of water present beneath the ground surface per unit area"
+"166","","\Terrestrial\Ground water\Ground water (level)","Ground water (level)",NA
+"305","","\Atmosphere\Wind\Gust Speed","Gust Speed",NA
+"205","","\Atmosphere\Gas\Other Gas\H2","H2",NA
+"287","","\Atmosphere\Gas\Reactive Gas\H2O2 (hydrogen peroxide)","H2O2 (hydrogen peroxide)",NA
+"206","","\Atmosphere\Gas\Other Gas\H2O (as a chemical species)","H2O (as a chemical species)","3D field of mole fraction of H<sub>2</sub>O = Water vapour (intended as a chemical species relevant for atmospheric chemistry)."
+"10025","","\Atmosphere\Gas\Greenhouse Gas\Halocarbons","Halocarbons",NA
+"10026","","\Atmosphere\Gas\Greenhouse Gas\Halon","Halon",NA
+"10027","","\Atmosphere\Gas\Greenhouse Gas\HCFCs","HCFCs",NA
+"288","","\Atmosphere\Gas\Reactive Gas\HCl (hydrochloric acid)","HCl (hydrochloric acid)",NA
+"393","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)","HCN (formonitrile, hydrogen cyanide)",NA
+"207","","\Atmosphere\Gas\Other Gas\HDO (as a chemical species)","HDO (as a chemical species)","3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) "
+"106","","\Outer Space\Energetic particles / solar wind \Heavy ion angular flux energy and mass spectrum","Heavy ion angular flux energy and mass spectrum","Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron, per unit solid angle"
+"517","","\Outer Space\Energetic particles / solar wind \Particle flux\Heavy ion differential directional flux","Heavy ion differential directional flux","Flux density of heavy ions (eavier than Helium) per unit solid angle"
+"107","","\Outer Space\Energetic particles / solar wind \Heavy ion flux energy and mass spectrum","Heavy ion flux energy and mass spectrum","Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron."
+"518","","\Outer Space\Energetic particles / solar wind \Particle flux\Heavy ion integral directional flux","Heavy ion integral directional flux","Flux density of heavy ions ranging from Helium to Iron."
+"531","","\Atmosphere\Clouds\Position\Height of cloud base","Height of cloud base",NA
+"532","","\Atmosphere\Clouds\Position\Height of cloud top","Height of cloud top",NA
+"533","","\Atmosphere\Clouds\Position\Height of inversion","Height of inversion",NA
+"132","","\Outer Space\Solar monitoring\Heliospheric image","Heliospheric image","Image of the interplanetary space between the Sun and Earth"
+"125","","\Outer Space\Ionospheric disturbances\h'F","h'F","Virtual height of the bottom of the ionospheric F-layer."
+"10028","","\Atmosphere\Gas\Greenhouse Gas\HFCs","HFCs",NA
+"289","","\Atmosphere\Gas\Reactive Gas\HF (hydrofluoric acid)","HF (hydrofluoric acid)",NA
+"126","","\Outer Space\Ionospheric disturbances\hmF2","hmF2","Altitude of the peak density in the ionospheric F2 layer."
+"394","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid)","HNO3 (nitric acid)",NA
+"12005","","\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface","Horizontal wind direction at specified distance from reference surface","Horizontal wind direction at specified distance from reference surface"
+"12006","","\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface","Horizontal wind speed at specified distance from reference surface","Horizontal wind speed at specified distance from reference surface"
+"10030","","\Atmosphere\Humidity","Humidity",NA
+"10100","","\Terrestrial\Land surface\Humidity","Humidity",NA
+"10112","","\Terrestrial\Soil\Humidity","Humidity",NA
+"251","","\Atmosphere\Humidity\Humidity  (at specified distance from reference surface)","Humidity  (at specified distance from reference surface)",NA
+"296","","\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH","Hydrogen ion (H+) or pH",NA
+"522","","\Atmosphere\Visibility\Obscurations\Hydrometeor radius","Hydrometeor radius",NA
+"523","","\Atmosphere\Visibility\Obscurations\Hydrometeor type","Hydrometeor type",NA
+"413","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 ¿m equivalent","Hygroscopic growth factor, 110 ¿m equivalent",NA
+"414","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 ¿m equivalent","Hygroscopic growth factor, 165 ¿m equivalent",NA
+"415","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 ¿m equivalent","Hygroscopic growth factor, 35 ¿m equivalent",NA
+"416","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 ¿m equivalent","Hygroscopic growth factor, 50 ¿m equivalent",NA
+"417","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 ¿m equivalent","Hygroscopic growth factor, 75 ¿m equivalent",NA
+"418","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",NA
+"497","","\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)","i-C4H10 (2-methylpropane, iso-butane)",NA
+"498","","\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)","i-C4H8 (2-methylpropene, iso-butene)",NA
+"499","","\Atmosphere\Gas\Reactive Gas\VOC\i-C5H12 (2-methylbutane, iso-pentane)","i-C5H12 (2-methylbutane, iso-pentane)",NA
+"500","","\Atmosphere\Gas\Reactive Gas\VOC\i-C7H16 (2-methylhexane, isoheptane)","i-C7H16 (2-methylhexane, isoheptane)",NA
+"10017","","\Atmosphere\Clouds\Ice","Ice",NA
+"10078","","\Ocean\Snow / Ice / Glacier\Ice","Ice",NA
+"10095","","\Terrestrial\Lake\Snow / Ice / Glacier\Ice","Ice",NA
+"10104","","\Terrestrial\Land surface\Snow / Ice / Glacier\Ice","Ice",NA
+"10110","","\Terrestrial\River\Snow / Ice / Glacier\Ice","Ice",NA
+"613","","\Terrestrial\Land surface\Snow / Ice / Glacier\Ice\Ice sheet topography","Ice sheet topography","Map of ice sheet height over land ."
+"725","","\Terrestrial\Lake\Snow / Ice / Glacier\Ice\Ice thickness","Ice thickness",NA
+"726","","\Terrestrial\River\Snow / Ice / Glacier\Ice\Ice thickness","Ice thickness",NA
+"331","","\Atmosphere\Clouds\Ice\Icing potential","Icing potential","3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
+"10053","","\Atmosphere\Total Atmospheric Deposition\Inorganic acid","Inorganic acid",NA
+"10003","","\Atmosphere\Aerosol\Composition\Inorganic anions","Inorganic anions",NA
+"10054","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions","Inorganic anions",NA
+"10004","","\Atmosphere\Aerosol\Composition\Inorganic carbonaceous","Inorganic carbonaceous",NA
+"10005","","\Atmosphere\Aerosol\Composition\Inorganic cations","Inorganic cations",NA
+"10055","","\Atmosphere\Total Atmospheric Deposition\Inorganic cations","Inorganic cations",NA
+"10006","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species","Inorganic nitrogen species",NA
+"10056","","\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species","Inorganic nitrogen species",NA
+"44","","\Atmosphere\Integrated air samples","Integrated air samples",NA
+"252","","\Atmosphere\Humidity\Integrated water vapour","Integrated water vapour",NA
+"212","","\Atmosphere\Precipitation\Intensity of precipitation","Intensity of precipitation",NA
+"108","","\Outer Space\Energetic particles / solar wind \Interplanetary magnetic field","Interplanetary magnetic field","Vector magnetic field (3D) in the solar wind.The reference frame is Cartesian or Cylindrical with many different axis orientations. Important in Space Weather to monitor magnetic disturbances of the near earth environment."
+"541","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-)","Iodide (I-)",NA
+"10089","","\Outer Space\Ionospheric disturbances","Ionospheric disturbances",NA
+"120","","\Outer Space\Ionospheric disturbances\Ionospheric plasma density","Ionospheric plasma density","Total number of ionized particles in a volume unit of ionospheric plasma"
+"121","","\Outer Space\Ionospheric disturbances\Ionospheric plasma velocity","Ionospheric plasma velocity","Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere."
+"117","","\Outer Space\Ionospheric disturbances\Ionospheric Radio Absorption","Ionospheric Radio Absorption","Attenuation of a radio wave passing through the lower ionosphere."
+"118","","\Outer Space\Ionospheric disturbances\Ionospheric Scintillation","Ionospheric Scintillation","Random fluctuations of radio waves resulting of small scale variations of the ionospheric electron density in space and time."
+"119","","\Outer Space\Ionospheric disturbances\Ionospheric Vertical Total Electron Content (VTEC)","Ionospheric Vertical Total Electron Content (VTEC)","Number of electrons between two points."
+"10043","","\Atmosphere\Radiation\IR","IR",NA
+"603","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Iron (Fe)","Iron (Fe)",NA
+"694","","\Atmosphere\Aerosol\Composition\Trace elements\Iron (Fe), total aerosol","Iron (Fe), total aerosol",NA
+"221","","\Atmosphere\Radionuclide\Krypton [Kr-85]","Krypton [Kr-85]",NA
+"10093","","\Terrestrial\Lake","Lake",NA
+"167","","\Terrestrial\Lake\Lake area","Lake area","Aera extent of the surface of a lake"
+"168","","\Terrestrial\Lake\Lake level","Lake level","Map of the height of the lake surface."
+"410","","\Terrestrial\Lake\Temperature\Lake Surface Temperature","Lake Surface Temperature","Temperature of the lake surface - Physical unit: [ K ] - Accuracy unit: [ K ]."
+"236","","\Terrestrial\Land surface\Land cover","Land cover","Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."
+"10097","","\Terrestrial\Land surface","Land surface",NA
+"389","","\Terrestrial\Land surface\Temperature\Land surface temperature","Land surface temperature","Temperature of the apparent surface of land (bare soil or vegetation) - Physical unit: [ K ] - Accuracy unit: [ K ]."
+"237","","\Terrestrial\Land surface\Land surface topography","Land surface topography","Map of land surface heights - Physical unit: [ m ] - Accuracy unit: [ m ]."
+"695","","\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), PM2.5","Lanthanum (La), PM2.5",NA
+"696","","\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), total aerosol","Lanthanum (La), total aerosol",NA
+"604","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Lead (Pb)","Lead (Pb)",NA
+"222","","\Atmosphere\Radionuclide\Lead [Pb-210]","Lead [Pb-210]",NA
+"697","","\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), PM10","Lead (Pb), PM10",NA
+"698","","\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), total aerosol","Lead (Pb), total aerosol",NA
+"425","","\Terrestrial\Land surface\Vegetation\Leaf Area Index (LAI)","Leaf Area Index (LAI)","LAI is the total one-sided area of photosynthetic tissue per unit ground surface area "
+"316","","\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",NA
+"317","","\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",NA
+"318","","\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",NA
+"319","","\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1","Light backscattering coefficient, PM1",NA
+"320","","\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10","Light backscattering coefficient, PM10",NA
+"321","","\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol","Light backscattering coefficient, total aerosol",NA
+"10031","","\Atmosphere\Lightning","Lightning",NA
+"12002","","\Atmosphere\Lightning\Lightning density cloud-to-ground","Lightning density cloud-to-ground",NA
+"431","","\Atmosphere\Lightning\Position\Lightning detection (time and location)","Lightning detection (time and location)","Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance ."
+"432","","\Atmosphere\Lightning\Position\Lightning direction from station","Lightning direction from station",NA
+"257","","\Atmosphere\Lightning\Lightning discharge energy","Lightning discharge energy",NA
+"258","","\Atmosphere\Lightning\Lightning discharge polarity","Lightning discharge polarity",NA
+"259","","\Atmosphere\Lightning\Lightning discharge rates","Lightning discharge rates",NA
+"260","","\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",NA
+"433","","\Atmosphere\Lightning\Position\Lightning distance from station","Lightning distance from station",NA
+"322","","\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",NA
+"323","","\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",NA
+"324","","\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",NA
+"10018","","\Atmosphere\Clouds\Liquid water","Liquid water",NA
+"699","","\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), PM2.5","Lithium (Li), PM2.5",NA
+"700","","\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), total aerosol","Lithium (Li), total aerosol",NA
+"524","","\Atmosphere\Visibility\Obscurations\Lithometeor type","Lithometeor type",NA
+"565","","\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified)","Long-wave radiation (direction unspecified)",NA
+"566","","\Atmosphere\Radiation\IR\Long-wave radiation (downwelling)","Long-wave radiation (downwelling)",NA
+"567","","\Atmosphere\Radiation\IR\Long-wave radiation (upwelling)","Long-wave radiation (upwelling)",NA
+"546","","\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++)","Magnesium (Mg++)",NA
+"635","","\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Magnesium (Mg++), PM10",NA
+"636","","\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Magnesium (Mg++), PM2.5",NA
+"637","","\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Magnesium (Mg++), total aerosol",NA
+"656","","\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated)","Major chemical components (size fractionated)",NA
+"10007","","\Atmosphere\Aerosol\Composition\Major inorganic components","Major inorganic components",NA
+"658","","\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse)","Major inorganic components (coarse)",NA
+"659","","\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine)","Major inorganic components (fine)",NA
+"657","","\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP)","Major inorganic components (TSP)",NA
+"605","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Manganese (Mn)","Manganese (Mn)",NA
+"701","","\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), PM10","Manganese (Mn), PM10",NA
+"702","","\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), total aerosol","Manganese (Mn), total aerosol",NA
+"364","","\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10","Mass concentration (coarse) or Mass PM10",NA
+"365","","\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1","Mass concentration (fine) or Mass PM1",NA
+"366","","\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",NA
+"367","","\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated)","Mass concentration (size fractionated)",NA
+"368","","\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP","Mass concentration (total aerosol) or Mass TSP",NA
+"253","","\Atmosphere\Humidity\Mass mixing ratio","Mass mixing ratio",NA
+"740","","\Ocean\Topography\Mean dynamic topography (MDT)","Mean dynamic topography (MDT)",NA
+"741","","\Ocean\Topography\Mean sea surface (MSS)","Mean sea surface (MSS)",NA
+"186","","\Atmosphere\Clouds\Melting layer depth in clouds","Melting layer depth in clouds","Depth of the atmospheric layer in cloud where liquid-solid states transform into each other"
+"606","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Mercury (Hg)","Mercury (Hg)",NA
+"703","","\Atmosphere\Aerosol\Composition\Trace elements\Mercury (Hg), total aerosol","Mercury (Hg), total aerosol",NA
+"525","","\Atmosphere\Visibility\Obscurations\Meteorological Optical Range","Meteorological Optical Range",NA
+"10066","","\Ocean\Miscellaneous","Miscellaneous",NA
+"325","","\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol","Aerosol optical depth of the atmospheric column determined at multiple wavelengths"
+"84","","\Ocean\Other Gas\N2, Ar, O2 ","N2, Ar, O2 ",NA
+"201","","\Atmosphere\Gas\Greenhouse Gas\N2O","N2O",NA
+"501","","\Atmosphere\Gas\Reactive Gas\VOC\n-C4H10 (n-butane)","n-C4H10 (n-butane)",NA
+"502","","\Atmosphere\Gas\Reactive Gas\VOC\n-C5H12 (n-pentane)","n-C5H12 (n-pentane)",NA
+"503","","\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane)","n-C7H16 (n-heptane)",NA
+"607","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Nickel (Ni)","Nickel (Ni)",NA
+"704","","\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), PM10","Nickel (Ni), PM10",NA
+"705","","\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), total aerosol","Nickel (Ni), total aerosol",NA
+"569","","\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-)","Nitrate (NO3-)",NA
+"650","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM10","Nitrate (NO3-), PM10",NA
+"651","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","Nitrate (NO3-), PM2.5",NA
+"652","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","Nitrate (NO3-), total aerosol",NA
+"570","","\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-)","Nitrite (NO2-)",NA
+"653","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","Nitrite (NO2-), total aerosol",NA
+"10048","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds","Nitrogen containing compounds",NA
+"10068","","\Ocean\Biology\Nitrogen species","Nitrogen species",NA
+"10117","","\Ocean\Miscellaneous\Nitrogen species","Nitrogen species",NA
+"494","","\Atmosphere\Gas\Reactive Gas\VOC\NMHC","NMHC",NA
+"395","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO","NO",NA
+"396","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2","NO2",NA
+"311","","\Ocean\Biology\Nitrogen species\NO2- (nitrite)","NO2- (nitrite)","nitrite concentration in sea water"
+"312","","\Ocean\Biology\Nitrogen species\NO3- (nitrate)","NO3- (nitrate)","nitrate concentration in sea water"
+"426","","\Terrestrial\Land surface\Vegetation\Normalised Difference Vegetation Index (NDVI)","Normalised Difference Vegetation Index (NDVI)","Difference between maximum (in NIR) and minimum (around the Red) vegetation reflectance, normalised to the summation. Representative of total biomass, supportive for computing LAI if not directly measured"
+"397","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx","NOx",NA
+"398","","\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy","NOy",NA
+"369","","\Atmosphere\Aerosol\Physical properties - primary\Number concentration","Number concentration",NA
+"370","","\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",NA
+"371","","\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",NA
+"85","","\Ocean\Other Gas\O2/Ar ratio","O2/Ar ratio",NA
+"254","","\Atmosphere\Humidity\Object wetness duration","Object wetness duration",NA
+"10060","","\Atmosphere\Visibility\Obscurations","Obscurations",NA
+"526","","\Atmosphere\Visibility\Obscurations\Obscuration type","Obscuration type",NA
+"213","","\Atmosphere\Precipitation\Occurrence of precipitation during last period","Occurrence of precipitation during last period",NA
+"10063","","\Ocean","Ocean",NA
+"62","","\Ocean\Currents\Ocean Current - Direction","Ocean Current - Direction",NA
+"63","","\Ocean\Currents\Ocean Current - Speed","Ocean Current - Speed","Ocean motion measured at various depth levels."
+"64","","\Ocean\Topography\Ocean dynamic topography (ODT)","Ocean dynamic topography (ODT)","Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects) - Physical unit: [ cm ] - Accuracy unit: [ cm ]."
+"91","","\Ocean\Basic Physical Properties\Ocean salinity","Ocean salinity","3D field of salinity of the ocean Requested in upper and deep ocean - Physical unit: [ psu ], Practical Salinity Unit, close to 1, determined by CTD"
+"86","","\Ocean\Other Gas\Ocean subsurface dissolved oxygen concentration","Ocean subsurface dissolved oxygen concentration","Concentration of dissolved oxygen"
+"65","","\Ocean\Currents\Ocean surface currents (vector)","Ocean surface currents (vector)","Water flow on ocean surface - Physical unit: [ cm/s ] - Accuracy unit: [ cm/s ] intended as vector error, i.e. the module of the vector difference between the observed vector and the true vector."
+"72","","\Ocean\Miscellaneous\Ocean suspended sediments concentration","Ocean suspended sediments concentration","Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m<sup>3</sup>&nbsp;at a specific concentration (e.g., 2 g/m<sup>3</sup>&nbsp;)."
+"94","","\Ocean\Basic Physical Properties\Ocean temperature","Ocean temperature","3D field of temperature of the ocean Requested in upper and deep ocean."
+"73","","\Ocean\Miscellaneous\Oil spill cover","Oil spill cover","Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
+"507","","\Atmosphere\Clouds\Optical properties\Optical depth of fog","Optical depth of fog",NA
+"508","","\Atmosphere\Clouds\Optical properties\Optical depth within each layer","Optical depth within each layer",NA
+"10011","","\Atmosphere\Aerosol\Optical properties","Optical properties",NA
+"10019","","\Atmosphere\Clouds\Optical properties","Optical properties",NA
+"10057","","\Atmosphere\Total Atmospheric Deposition\Organic acid","Organic acid",NA
+"10008","","\Atmosphere\Aerosol\Composition\Organic anions","Organic anions",NA
+"10009","","\Atmosphere\Aerosol\Composition\Organic carbonaceous","Organic carbonaceous",NA
+"660","","\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse)","Other chemical components (coarse)",NA
+"661","","\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine)","Other chemical components (fine)",NA
+"10033","","\Atmosphere\Gas\Other Gas","Other Gas",NA
+"10070","","\Ocean\Other Gas","Other Gas",NA
+"10085","","\Outer Space","Outer Space",NA
+"87","","\Ocean\Other Gas\Oxygen, dissolved","Oxygen, dissolved",NA
+"10034","","\Atmosphere\Gas\Ozone","Ozone",NA
+"10037","","\Atmosphere\POPs\PAH","PAH",NA
+"10087","","\Outer Space\Energetic particles / solar wind \Particle density","Particle density",NA
+"10088","","\Outer Space\Energetic particles / solar wind \Particle flux","Particle flux",NA
+"10035","","\Atmosphere\Past weather","Past weather",NA
+"265","","\Atmosphere\Past weather\Past weather","Past weather",NA
+"735","","\Ocean\Greenhouse Gas\pCO2","pCO2","Partial pressure of CO2 "
+"736","","\Ocean\Greenhouse Gas\pCO2 air-sea flux","pCO2 air-sea flux","Flux of CO2 from the ocean into the atmosphere"
+"354","","\Terrestrial\Land surface\Snow / Ice / Glacier\Permafrost","Permafrost",NA
+"10029","","\Atmosphere\Gas\Greenhouse Gas\PFCs","PFCs",NA
+"79","","\Ocean\Miscellaneous\pH","pH","The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity"
+"542","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---)","Phosphate (PO4---)",NA
+"706","","\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), PM2.5","Phosphorous (P), PM2.5",NA
+"707","","\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), total aerosol","Phosphorous (P), total aerosol",NA
+"10069","","\Ocean\Biology\Phosporus species","Phosporus species",NA
+"564","","\Terrestrial\Land surface\Radiation\Photosynthetically Active Radiation (PAR)","Photosynthetically Active Radiation (PAR)","Flux of downwelling photons of wavelength 0.4-0.7"
+"10012","","\Atmosphere\Aerosol\Physical properties - primary","Physical properties - primary",NA
+"10015","","\Atmosphere\Aerosol\Physical properties - secondary","Physical properties - secondary",NA
+"549","","\Ocean\Other Gas\CTD\pO2","pO2",NA
+"399","","\Ocean\Biology\Phosporus species\PO4= (phosphate)","PO4= (phosphate)","phosphate conetration in sea water"
+"10038","","\Atmosphere\POPs\POP","POP",NA
+"10036","","\Atmosphere\POPs","POPs",NA
+"10020","","\Atmosphere\Clouds\Position","Position",NA
+"10032","","\Atmosphere\Lightning\Position","Position",NA
+"547","","\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+)","Potassium (K+)",NA
+"638","","\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10","Potassium (K+), PM10",NA
+"639","","\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5","Potassium (K+), PM2.5",NA
+"640","","\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol","Potassium (K+), total aerosol",NA
+"10039","","\Atmosphere\Precipitation","Precipitation",NA
+"10040","","\Atmosphere\Present weather","Present weather",NA
+"266","","\Atmosphere\Present weather\Present weather","Present weather",NA
+"10041","","\Atmosphere\Pressure","Pressure",NA
+"18","","\Ocean\Basic Physical Properties\Pressure","Pressure","Pressure(depth) measured by CTD"
+"218","","\Atmosphere\Pressure\Pressure tendency","Pressure tendency",NA
+"74","","\Ocean\Biology\Primary production","Primary production",NA
+"578","","\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-)","Propionate (C2H5COO-)",NA
+"519","","\Outer Space\Energetic particles / solar wind \Particle flux\Proton differential directional flux","Proton differential directional flux","Flux density energy spectrum of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
+"520","","\Outer Space\Energetic particles / solar wind \Particle flux\Proton integral directional flux","Proton integral directional flux","Flux density of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium."
+"188","","\Atmosphere\Clouds\PSC occurrence","PSC occurrence","3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] "
+"10042","","\Atmosphere\Radiation","Radiation",">Atmosphere>Radiation>UV [category]"
+"10074","","\Ocean\Radiation","Radiation",NA
+"10101","","\Terrestrial\Land surface\Radiation","Radiation",NA
+"111","","\Outer Space\Energetic particles / solar wind \Radiation Dose Rate","Radiation Dose Rate","3D field of the dose rate of energetic particles"
+"10046","","\Atmosphere\Radionuclide","Radionuclide",NA
+"133","","\Outer Space\Solar monitoring\Radio-waves","Radio-waves","Travelling radio-waves of solar, galactic and extragalactic origin, entering the Earth's environment."
+"223","","\Atmosphere\Radionuclide\Radon [Rn-222]","Radon [Rn-222]",NA
+"214","","\Atmosphere\Precipitation\Rate of ice accretion","Rate of ice accretion",NA
+"10047","","\Atmosphere\Gas\Reactive Gas","Reactive Gas",NA
+"10075","","\Ocean\Reactive Gas","Reactive Gas",NA
+"575","","\Atmosphere\Radiation\Solar\Reflected solar radiation","Reflected solar radiation",NA
+"10108","","\Terrestrial\River","River",NA
+"171","","\Terrestrial\River\River discharge","River discharge","Volume of water flowing through a river per unit of time "
+"172","","\Terrestrial\River\River stage (level above reference)","River stage (level above reference)",NA
+"291","","\Atmosphere\Gas\Reactive Gas\ROOH","ROOH",NA
+"708","","\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), PM2.5","Rubidium (Rb), PM2.5",NA
+"709","","\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), total aerosol","Rubidium (Rb), total aerosol",NA
+"239","","\Terrestrial\Land surface\Runway conditions","Runway conditions",NA
+"229","","\Atmosphere\Visibility\Runway visual range","Runway visual range",NA
+"401","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice cover","Sea-ice cover","Fraction of an ocean area where ice is present"
+"402","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice elevation","Sea-ice elevation","Elevation of the surface of the sea-ice sheet above sea level"
+"403","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice motion","Sea-ice motion","Sea-ice motion"
+"404","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface characteristics","Sea-ice surface characteristics","Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
+"405","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface temperature","Sea-ice surface temperature","Temperature of the surface of sea-ice."
+"406","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice thickness","Sea-ice thickness","Thickness of the ice sheet. It is related to sea-ice elevation and ice density"
+"407","","\Ocean\Snow / Ice / Glacier\Ice\Sea-ice type","Sea-ice type","Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
+"76","","\Ocean\Miscellaneous\Sea surface heat flux","Sea surface heat flux","Sea Surface Heat Flux"
+"77","","\Ocean\Topography\Sea surface height anomaly (SSHA)","Sea surface height anomaly (SSHA)","Sea surface height anomaly"
+"742","","\Ocean\Topography\Sea surface height (SSH, OST)","Sea surface height (SSH, OST)",NA
+"75","","\Ocean\Miscellaneous\Sea surface Mass Flux","Sea surface Mass Flux","Sea Surface Mass Flux"
+"92","","\Ocean\Basic Physical Properties\Sea surface salinity","Sea surface salinity","Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be ¿halinity¿ with reference of the diversity of salts involved."
+"95","","\Ocean\Basic Physical Properties\Sea surface temperature","Sea surface temperature","Temperature of the sea water at surface. The ¿bulk¿ temperature refers to the depth of typically 2 m, the ¿skin¿ temperature refers to within the upper 1 mm. "
+"710","","\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol","Selenium (Se), total aerosol",NA
+"203","","\Atmosphere\Gas\Greenhouse Gas\SF6","SF6",NA
+"509","","\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance","Short-wave cloud reflectance","Reflectance of the solar radiation from clouds "
+"100","","\Ocean\Waves\Significant wave height","Significant wave height","Average amplitude of the highest 30 of 100 waves."
+"82","","\Ocean\Biology\SiO3= (metasilicate)","SiO3= (metasilicate)",NA
+"10105","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow","Snow",NA
+"628","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow cover (fraction of area)","Snow cover (fraction of area)","Fraction of a given area which is covered by snow"
+"629","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow depth","Snow depth","Vertical distance from the snow surface to the underlying surface (ground, glacier ice or sea ice)."
+"10077","","\Ocean\Snow / Ice / Glacier","Snow / Ice / Glacier",NA
+"10094","","\Terrestrial\Lake\Snow / Ice / Glacier","Snow / Ice / Glacier",NA
+"10102","","\Terrestrial\Land surface\Snow / Ice / Glacier","Snow / Ice / Glacier",NA
+"10109","","\Terrestrial\River\Snow / Ice / Glacier","Snow / Ice / Glacier",NA
+"630","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow status (wet/dry)","Snow status (wet/dry)","Binary product (dry or melting/thawing) expressing the presence of liquid water in a snow layer- Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ]."
+"631","","\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow water equivalent","Snow water equivalent","Vertical depth of the water that would be obtained by melting a snow layer. Linked to snow depth through the density of the snow layer."
+"430","","\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2","SO2",NA
+"204","","\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulfuryl fluoride)","SO2F2 (sulfuryl fluoride)",NA
+"548","","\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+)","Sodium (Na+)",NA
+"641","","\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM10","Sodium (Na+), PM10",NA
+"642","","\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM2.5","Sodium (Na+), PM2.5",NA
+"643","","\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), total aerosol","Sodium (Na+), total aerosol",NA
+"10111","","\Terrestrial\Soil","Soil",NA
+"245","","\Terrestrial\Soil\Soil heat Flux","Soil heat Flux",NA
+"528","","\Terrestrial\Soil\Humidity\Soil moisture at surface","Soil moisture at surface","Fractional content of water in a volume of wet soil. Surface layer (upper few centimetres)"
+"527","","\Terrestrial\Soil\Humidity\Soil moisture (in the roots region)","Soil moisture (in the roots region)","Sub-soil 3D field of the fractional content of water in a volume of wet soil. Requested from surface down to ~ 3 m"
+"596","","\Terrestrial\Soil\Temperature\Soil temperature","Soil temperature","The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required."
+"246","","\Terrestrial\Soil\Soil type","Soil type","Result of the classification of different types of soil within an area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
+"10044","","\Atmosphere\Radiation\Solar","Solar",NA
+"134","","\Outer Space\Solar monitoring\Solar Ca II-K image","Solar Ca II-K image","Image of the Sun in the K-line of Ca-II(393.4 nm)"
+"150","","\Outer Space\Solar monitoring\Solar coronagraphic image","Solar coronagraphic image","Image of the solar corona surrounding the Sun."
+"151","","\Outer Space\Solar monitoring\Solar electric field","Solar electric field","Map of magnitude and direction of the electric field at the solar surface (photosphere)."
+"135","","\Outer Space\Solar monitoring\Solar EUV flux","Solar EUV flux","Integrated EUV flux over the solar disk"
+"136","","\Outer Space\Solar monitoring\Solar EUV flux spectrum","Solar EUV flux spectrum","Energy spectrum of the EUV flux integrated over the solar disk."
+"137","","\Outer Space\Solar monitoring\Solar EUV image","Solar EUV image","Images of the Sun in the Extreme Ultra-Violet (EUV) wavelengths in order to identify features such as filaments, active regions and coronal holes."
+"152","","\Outer Space\Solar monitoring\Solar gamma-ray flux","Solar gamma-ray flux","Integrated gamma-ray flux over the solar disk"
+"153","","\Outer Space\Solar monitoring\Solar gamma-ray flux spectrum","Solar gamma-ray flux spectrum","Energy spectrum of the gamma-ray flux integrated over the solar disk"
+"138","","\Outer Space\Solar monitoring\Solar H-alpha image","Solar H-alpha image","Image of the Sun in the Hydrogen-alpha transition wavelength (656.3 nm)."
+"139","","\Outer Space\Solar monitoring\Solar Lyman-alpha flux","Solar Lyman-alpha flux","Solar flux in the Hydrogen Lyman-alpha transition wavelength (121.6 nm)"
+"140","","\Outer Space\Solar monitoring\Solar Lyman-alpha image","Solar Lyman-alpha image","Image of the Sun in the Hydrogen Lyman-alpha transition wavelength (121.6 nm)"
+"154","","\Outer Space\Solar monitoring\Solar magnetic field","Solar magnetic field","Vector magnetic field (1D or 3D) at the solar surface (photosphere/chromosphere)"
+"10090","","\Outer Space\Solar monitoring","Solar monitoring",NA
+"155","","\Outer Space\Solar monitoring\Solar radio flux","Solar radio flux","Integrated radio flux over the solar disk."
+"156","","\Outer Space\Solar monitoring\Solar radio flux spectrum","Solar radio flux spectrum","Solar radio flux energy spectrum integrated over the solar disk."
+"157","","\Outer Space\Solar monitoring\Solar radio image","Solar radio image","2D image of the solar radio flux"
+"141","","\Outer Space\Solar monitoring\Solar UV flux","Solar UV flux","Integrated UV flux over the solar disk."
+"142","","\Outer Space\Solar monitoring\Solar UV flux spectrum","Solar UV flux spectrum","Energy spectrum of the UV flux integrated over the solar disk."
+"143","","\Outer Space\Solar monitoring\Solar UV image","Solar UV image","Images of the Sun in the UV wavelengths."
+"158","","\Outer Space\Solar monitoring\Solar velocity fields","Solar velocity fields","Map of 3D velocity of particles of the Solar atmosphere, significant of the Sun interior."
+"144","","\Outer Space\Solar monitoring\Solar VIS flux","Solar VIS flux","Integrated VIS flux over the solar disk"
+"145","","\Outer Space\Solar monitoring\Solar VIS flux spectrum","Solar VIS flux spectrum","Energy spectrum of the integrated VIS flux over the solar disk."
+"146","","\Outer Space\Solar monitoring\Solar VIS image","Solar VIS image","Images of the Sun in the VIS wavelengths."
+"159","","\Outer Space\Solar monitoring\Solar white light image","Solar white light image","Image of the Sun in white light"
+"409","","\Outer Space\Energetic particles / solar wind \Particle density\Solar wind density","Solar wind density","Density of solar wind plasma"
+"112","","\Outer Space\Energetic particles / solar wind \Solar wind temperature","Solar wind temperature","Temperature of solar wind protons"
+"113","","\Outer Space\Energetic particles / solar wind \Solar wind velocity","Solar wind velocity","Vector velocity of solar wind plasma"
+"147","","\Outer Space\Solar monitoring\Solar X-ray flux","Solar X-ray flux","Integrated X-ray flux over the solar disk"
+"148","","\Outer Space\Solar monitoring\Solar X-ray flux spectrum","Solar X-ray flux spectrum","Energy spectrum of the X-ray flux integrated over the solar disk."
+"149","","\Outer Space\Solar monitoring\Solar X-ray image","Solar X-ray image","Image of the Sun in X-ray wavelengths"
+"56","","\Atmosphere\Special phenomena","Special phenomena",NA
+"122","","\Outer Space\Ionospheric disturbances\Spread F","Spread F","Vertical thickness of highly structured ion density in the F-region of the ionosphere."
+"57","","\Atmosphere\State of ground","State of ground",NA
+"529","","\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids","Strong acids",NA
+"711","","\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), PM2.5","Strontium (Sr), PM2.5",NA
+"712","","\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), total aerosol","Strontium (Sr), total aerosol",NA
+"543","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), corrected","Sulfate (SO4=), corrected",NA
+"619","","\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), corrected","Sulfate (SO4=), corrected",NA
+"544","","\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), total","Sulfate (SO4=), total",NA
+"620","","\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total","Sulfate (SO4=), total",NA
+"621","","\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM10","Sulfate (SO4=), total, PM10",NA
+"622","","\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM2.5","Sulfate (SO4=), total, PM2.5",NA
+"10049","","\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds","Sulfur containing compounds",NA
+"302","","\Atmosphere\Total Atmospheric Deposition\Sulphur (S)","Sulphur (S)",NA
+"654","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol","Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",NA
+"655","","\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol","Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",NA
+"270","","\Atmosphere\Radiation\Sunshine duration","Sunshine duration",NA
+"271","","\Atmosphere\Radiation\Surface albedo","Surface albedo",NA
+"262","","\Atmosphere\Gas\Ozone\Surface ozone","Surface ozone",NA
+"504","","\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene)","t-C4H8 (trans-2-butene)",NA
+"505","","\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene)","t-C5H10 (trans-2-pentene)",NA
+"10051","","\Atmosphere\Temperature","Temperature",NA
+"10096","","\Terrestrial\Lake\Temperature","Temperature",NA
+"10106","","\Terrestrial\Land surface\Temperature","Temperature",NA
+"10113","","\Terrestrial\Soil\Temperature","Temperature",NA
+"227","","\Atmosphere\Temperature\Temperature profile","Temperature profile",NA
+"10091","","\Terrestrial","Terrestrial",NA
+"713","","\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), PM2.5","Thallium (Tl), PM2.5",NA
+"714","","\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), total aerosol","Thallium (Tl), total aerosol",NA
+"715","","\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), PM2.5","Thorium (Th), PM2.5",NA
+"716","","\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), total aerosol","Thorium (Th), total aerosol",NA
+"10080","","\Ocean\Tides","Tides",NA
+"717","","\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), PM2.5","Tin (Sn), PM2.5",NA
+"718","","\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol","Tin (Sn), total aerosol",NA
+"672","","\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Titanium (Ti), total aerosol",NA
+"10064","","\Ocean\Topography","Topography",NA
+"78","","\Ocean\Miscellaneous\Total alkalinity (AT)","Total alkalinity (AT)","The amount of acid necessary to titrate all weak bases in seawater."
+"10052","","\Atmosphere\Total Atmospheric Deposition","Total Atmospheric Deposition",NA
+"626","","\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Total carbon (coarse), PM10","Total carbon (coarse), PM10",NA
+"263","","\Atmosphere\Gas\Ozone\Total column ozone","Total column ozone",NA
+"12001","","\Atmosphere\Lightning\Total lightning density","Total lightning density",NA
+"400","","\Ocean\Biology\Phosporus species\Total organic phosphorus","Total organic phosphorus",NA
+"10010","","\Atmosphere\Aerosol\Composition\Trace elements","Trace elements",NA
+"10058","","\Atmosphere\Total Atmospheric Deposition\Trace elements","Trace elements",NA
+"10081","","\Ocean\Transmissivity","Transmissivity",NA
+"408","","\Ocean\Transmissivity\CTD\Transmissivity","Transmissivity",NA
+"248","","\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",NA
+"249","","\Atmosphere\Dynamics\Turbulence","Turbulence","3D field of kinetic energy density of turbulent motion of the air"
+"250","","\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex)","Turbulence type (low levels and wake vortex)",NA
+"10021","","\Atmosphere\Clouds\Type","Type",NA
+"550","","\Atmosphere\Clouds\Type\Type of cloud","Type of cloud","Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
+"551","","\Atmosphere\Clouds\Type\Type of high clouds","Type of high clouds",NA
+"552","","\Atmosphere\Clouds\Type\Type of low clouds","Type of low clouds",NA
+"553","","\Atmosphere\Clouds\Type\Type of middle clouds","Type of middle clouds",NA
+"215","","\Atmosphere\Precipitation\Type of precipitation","Type of precipitation",NA
+"310","","\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",NA
+"719","","\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5","Uranium (U), PM2.5",NA
+"720","","\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol","Uranium (U), total aerosol",NA
+"10045","","\Atmosphere\Radiation\UV","UV",NA
+"273","","\Atmosphere\Radiation\UV-B radiation","UV-B radiation",NA
+"356","","\Atmosphere\Radiation\UV\UV Broadband","UV Broadband",NA
+"357","","\Atmosphere\Radiation\UV\UV Erythemally weighted","UV Erythemally weighted",NA
+"160","","\Outer Space\Solar monitoring\UV flux","UV flux","Integrated UV flux."
+"358","","\Atmosphere\Radiation\UV\UV Multiband","UV Multiband",NA
+"161","","\Outer Space\Solar monitoring\UV sky image","UV sky image","UV image of the sky"
+"359","","\Atmosphere\Radiation\UV\UV Spectral","UV Spectral",NA
+"608","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Vanadium (V)","Vanadium (V)",NA
+"721","","\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5","Vanadium (V), PM2.5",NA
+"722","","\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",NA
+"10107","","\Terrestrial\Land surface\Vegetation","Vegetation",NA
+"427","","\Terrestrial\Land surface\Vegetation\Vegetation type","Vegetation type","Result of the classification of different types of vegetation within a vegetated area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
+"326","","\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties","Vertical distribution of properties",NA
+"264","","\Atmosphere\Gas\Ozone\Vertical ozone profile","Vertical ozone profile",NA
+"10059","","\Atmosphere\Visibility","Visibility",NA
+"230","","\Atmosphere\Visibility\Visibility","Visibility",NA
+"10050","","\Atmosphere\Gas\Reactive Gas\VOC","VOC",NA
+"10014","","\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash","Volcanic ash",NA
+"89","","\Ocean\Radiation\Water-leaving spectral radiance","Water-leaving spectral radiance","Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
+"256","","\Atmosphere\Humidity\Watervapor profile","Watervapor profile",NA
+"255","","\Atmosphere\Humidity\Water vapour pressure","Water vapour pressure",NA
+"101","","\Ocean\Waves\Wave 1D energy frequency spectrum","Wave 1D energy frequency spectrum","1D variable colloquially referred to as &ldquo wave spectrum&rdquo. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
+"102","","\Ocean\Waves\Wave directional energy frequency spectrum","Wave directional energy frequency spectrum","2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15&deg; wide, and 25 frequency bands)"
+"743","","\Ocean\Waves\Wave height","Wave height"," average of height (trough to crest) of the waves collected through a specified time "
+"744","","\Ocean\Waves\Wave period","Wave period","The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
+"10083","","\Ocean\Waves","Waves",NA
+"10114","","\Terrestrial\Well","Well",NA
+"174","","\Terrestrial\Well\Well discharge","Well discharge",NA
+"243","","\Terrestrial\Land surface\Wetland extent","Wetland extent","Fraction of an area flood by water"
+"10061","","\Atmosphere\Wind","Wind",NA
+"10084","","\Ocean\Wind","Wind",NA
+"103","","\Ocean\Wind\Wind stress","Wind stress","The shear force per unit area exerted by wind blowing over the sea surface - "
+"309","","\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",NA
+"307","","\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)"," Z component of wind vector  (horizontal and vertical profile)"
+"162","","\Outer Space\Solar monitoring\X-ray flux","X-ray flux","Integrated X-ray flux."
+"163","","\Outer Space\Solar monitoring\X-ray flux spectrum","X-ray flux spectrum","Energy spectrum of the integrated X-ray flux."
+"164","","\Outer Space\Solar monitoring\X-ray sky image","X-ray sky image","X-ray image of the sky"
+"609","","\Atmosphere\Total Atmospheric Deposition\Trace elements\Zinc (Zn)","Zinc (Zn)",NA
+"723","","\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",NA
+"724","","\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",NA
+"733","","\Ocean\Biology\Zooplankton (size and/or development stage)","Zooplankton (size and/or development stage)","the aggregate of animal or animal-like organisms in plankton, as protozoans"

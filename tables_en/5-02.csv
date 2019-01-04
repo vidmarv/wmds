@@ -1,0 +1,339 @@
+"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"62","","\Atmosphere\Radioactivity\In situ\Adsorption - scintillation counting","Adsorption - scintillation counting",NA
+"280","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Adsorption tube (charcoal) + elution + GC","Adsorption tube (charcoal) + elution + GC",NA
+"227","","\Atmosphere\Aerosol\In situ\Optical properties\Aerodynamic particle sizing spectrometer (APS)","Aerodynamic particle sizing spectrometer (APS)",NA
+"217","","\Atmosphere\Aerosol\In situ\Composition\Aerodyne mass spectrometer (AMS)","Aerodyne mass spectrometer (AMS)",NA
+"4","","\Atmosphere\Aerosol","Aerosol",NA
+"228","","\Atmosphere\Aerosol\In situ\Optical properties\Aerosol backscatter sonde","Aerosol backscatter sonde",NA
+"63","","\Atmosphere\Wind\In situ\Aerovane (wind vane with propeller)","Aerovane (wind vane with propeller)",NA
+"64","","\Atmosphere\Radioactivity\In situ\Alpha counting","Alpha counting",NA
+"65","","\Atmosphere\Wind\In situ\Anemometer [general]","Anemometer [general]",NA
+"66","","\Atmosphere\Pressure\In situ\Aneroid barometer (evacuated capsule)","Aneroid barometer (evacuated capsule)",NA
+"67","","\Atmosphere\Total atmospheric deposition\In situ\Anion exchange membrane (AEM)","Anion exchange membrane (AEM)",NA
+"68","","\Atmosphere\Evaporation\In situ\Atmometer","Atmometer",NA
+"2","","\Atmosphere","Atmosphere",NA
+"69","","\Atmosphere\Lightning\Remote-sensing, passive\Atmospherics (""sferics"") detection","Atmospherics (""sferics"") detection",NA
+"70","","\Atmosphere\Total atmospheric deposition\In situ\Atomic absorption spectrophotometry (AAS)","Atomic absorption spectrophotometry (AAS)",NA
+"71","","\Atmosphere\Total atmospheric deposition\In situ\Atomic emission spectrophotometry (AES)","Atomic emission spectrophotometry (AES)",NA
+"73","","\Atmosphere\Pressure\In situ\Barometer, mercury column","Barometer, mercury column",NA
+"74","","\Atmosphere\Pressure\In situ\Barometer, mercury-free column","Barometer, mercury-free column",NA
+"75","","\Atmosphere\Radioactivity\In situ\Beta counting","Beta counting",NA
+"263","","\Atmosphere\Radiation\In situ\Direct solar\Bimetallic actinograph","Bimetallic actinograph",NA
+"76","","\Atmosphere\Temperature\In situ\Bimetal thermometer","Bimetal thermometer",NA
+"77","","\Atmosphere\Micrometeorology\In situ\Bowen-ratio method","Bowen-ratio method",NA
+"78","","\Atmosphere\Ozone\Remote-sensing, passive\Brewer","Brewer",NA
+"79","","\Atmosphere\Ozone\In situ\Brewer-GDR","Brewer-GDR",NA
+"80","","\Atmosphere\Ozone\In situ\Brewer-Mast Sonde","Brewer-Mast Sonde",NA
+"72","","\Atmosphere\Radiation\In situ\BSRN compliant instrument","BSRN compliant instrument",NA
+"81","","\Atmosphere\Humidity\In situ\Capacitive method","Capacitive method",NA
+"82","","\Atmosphere\Precipitation\In situ\Capacitive rain sensor","Capacitive rain sensor",NA
+"83","","\Atmosphere\Total atmospheric deposition\In situ\Capillary electrophoresis (CE)","Capillary electrophoresis (CE)",NA
+"84","","\Atmosphere\Ozone\In situ\Carbon-Iodine Sonde (KC Sonde)","Carbon-Iodine Sonde (KC Sonde)",NA
+"287","","\Atmosphere\Trace gas\In situ\Chemiluminescence\Catalytic conversion 'Au' - CL","Catalytic conversion 'Au' - CL",NA
+"288","","\Atmosphere\Trace gas\In situ\Chemiluminescence\Catalytic conversion 'Fe' - CL","Catalytic conversion 'Fe' - CL",NA
+"289","","\Atmosphere\Trace gas\In situ\Chemiluminescence\Catalytic conversion 'Mb' - CL","Catalytic conversion 'Mb' - CL",NA
+"306","","\Atmosphere\Trace gas\In situ\Laser-based methods\Cavity-enhanced absorption spectroscopy (CEAS)","Cavity-enhanced absorption spectroscopy (CEAS)",NA
+"305","","\Atmosphere\Trace gas\In situ\Laser-based methods\Cavity ring-down spectroscopy (CRDS)","Cavity ring-down spectroscopy (CRDS)",NA
+"245","","\Atmosphere\Clouds\Remote-sensing, active\Laser-based methods\Ceilometer","Ceilometer",NA
+"312","","\Atmosphere\Trace gas\In situ\Mass spectrometry\Chemical ionization MS (CIMS) with matrix isolation","Chemical ionization MS (CIMS) with matrix isolation",NA
+"85","","\Atmosphere\Total atmospheric deposition\In situ\Chemiluminescence","Chemiluminescence",NA
+"86","","\Atmosphere\Trace gas\In situ\Chemiluminescence","Chemiluminescence",NA
+"290","","\Atmosphere\Trace gas\In situ\Chemiluminescence\Chemiluminescence (CL) [general]","Chemiluminescence (CL) [general]",NA
+"251","","\Atmosphere\Humidity\In situ\Dewpoint determination\Chilled mirror","Chilled mirror",NA
+"231","","\Atmosphere\Aerosol\In situ\Physical properties\Cloud condensation nuclei (CCN) counter","Cloud condensation nuclei (CCN) counter",NA
+"5","","\Atmosphere\Clouds","Clouds",NA
+"88","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetric titration [general]","Colorimetric titration [general]",NA
+"87","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetric titration (Gran method)","Colorimetric titration (Gran method)",NA
+"89","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry","Colorimetry",NA
+"271","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (ANSA)","Colorimetry (ANSA)",NA
+"278","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry [general]","Colorimetry [general]",NA
+"272","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (Griess)","Colorimetry (Griess)",NA
+"273","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (indophenol, Bertholet)","Colorimetry (indophenol, Bertholet)",NA
+"274","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (mercury thiocyanate+iron alum)","Colorimetry (mercury thiocyanate+iron alum)",NA
+"275","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (NEDA)","Colorimetry (NEDA)",NA
+"276","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (Nessler, K2HgI4)","Colorimetry (Nessler, K2HgI4)",NA
+"90","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (Saltzman)","Colorimetry (Saltzman)",NA
+"277","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (sodium salicylate method for nitrate)","Colorimetry (sodium salicylate method for nitrate)",NA
+"91","","\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (thorin)","Colorimetry (thorin)",NA
+"92","","\Atmosphere\Aerosol\In situ\Composition","Composition",NA
+"232","","\Atmosphere\Aerosol\In situ\Physical properties\Condensation particle counter (CPC)","Condensation particle counter (CPC)",NA
+"94","","\Atmosphere\Trace gas\In situ\Conductometry","Conductometry",NA
+"233","","\Atmosphere\Aerosol\In situ\Physical properties\Continuous gravimetry","Continuous gravimetry",NA
+"95","","\Atmosphere\Wind\In situ\Cup anemometer","Cup anemometer",NA
+"96","","\Atmosphere\Wind\In situ\Cup anemometer (3 or 4 cups)","Cup anemometer (3 or 4 cups)",NA
+"97","","\Atmosphere\Micrometeorology\In situ\Cuvette","Cuvette",NA
+"98","","\Atmosphere\Total atmospheric deposition\In situ\Denuder","Denuder",NA
+"99","","\Atmosphere\Trace gas\In situ\Denuder","Denuder",NA
+"100","","\Atmosphere\Humidity\In situ\Dewpoint determination","Dewpoint determination",NA
+"320","","\Atmosphere\Trace gas\Remote-sensing, active\Laser-based methods\Differential absorption Lidar (DIAL)","Differential absorption Lidar (DIAL)",NA
+"335","","\Atmosphere\Ozone\Remote-sensing, active\Laser-based methods\Differential absorption Lidar (DIAL)","Differential absorption Lidar (DIAL)",NA
+"234","","\Atmosphere\Aerosol\In situ\Physical properties\Differential mobility particle sizer (DMA, DMPS)","Differential mobility particle sizer (DMA, DMPS)",NA
+"321","","\Atmosphere\Trace gas\Remote-sensing, active\Optical spectrometry\Differential optical absorption (DOAS)","Differential optical absorption (DOAS)",NA
+"235","","\Atmosphere\Aerosol\In situ\Physical properties\Diffusion battery","Diffusion battery",NA
+"101","","\Atmosphere\Radiation\In situ\Direct solar","Direct solar",NA
+"102","","\Atmosphere\Precipitation\In situ\Disdrometer (drop spectrographs)","Disdrometer (drop spectrographs)",NA
+"103","","\Atmosphere\Micrometeorology\In situ\Disjunct eddy covariance method","Disjunct eddy covariance method",NA
+"104","","\Atmosphere\Dynamics\Numerical model\Dispersion","Dispersion",NA
+"105","","\Atmosphere\Micrometeorology\In situ\Dissipation method","Dissipation method",NA
+"106","","\Atmosphere\Ozone\Remote-sensing, passive\Dobson","Dobson",NA
+"6","","\Atmosphere\Dynamics","Dynamics",NA
+"107","","\Atmosphere\Ozone\In situ\ECC Sonde","ECC Sonde",NA
+"108","","\Atmosphere\Micrometeorology\In situ\Eddy accumulation method","Eddy accumulation method",NA
+"109","","\Atmosphere\Micrometeorology\In situ\Eddy covariance method","Eddy covariance method",NA
+"258","","\Atmosphere\Humidity\In situ\Psychrometer\Electrical aspiration (Frankenberger type)","Electrical aspiration (Frankenberger type)",NA
+"110","","\Atmosphere\Total atmospheric deposition\In situ\Electric conductivity (EC meter)","Electric conductivity (EC meter)",NA
+"236","","\Atmosphere\Aerosol\In situ\Physical properties\Electric mobility [general]","Electric mobility [general]",NA
+"111","","\Atmosphere\Pressure\In situ\Electronic pressure transducer (silicon diaphragm)","Electronic pressure transducer (silicon diaphragm)",NA
+"237","","\Atmosphere\Aerosol\In situ\Physical properties\Electrostatic classifier","Electrostatic classifier",NA
+"112","","\Atmosphere\Wind\In situ\Estimation from visual observation","Estimation from visual observation",NA
+"218","","\Atmosphere\Aerosol\In situ\Composition\EUSAAR protocol ","EUSAAR protocol ",NA
+"7","","\Atmosphere\Evaporation","Evaporation",NA
+"113","","\Atmosphere\Evaporation\In situ\Evaporation pan and/or tank","Evaporation pan and/or tank",NA
+"114","","\Atmosphere\Trace gas\In situ\Faraday cup photochemistry","Faraday cup photochemistry",NA
+"117","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods","Filter-based methods",NA
+"118","","\Atmosphere\Trace gas\In situ\Filter-based methods","Filter-based methods",NA
+"219","","\Atmosphere\Aerosol\In situ\Composition\Filter + beta attenuation (betameter, beta gauge)","Filter + beta attenuation (betameter, beta gauge)",NA
+"220","","\Atmosphere\Aerosol\In situ\Optical properties\Filter + light attenuation (aethalometer)","Filter + light attenuation (aethalometer)",NA
+"115","","\Atmosphere\Radioactivity\In situ\Filter sampling + alpha counting","Filter sampling + alpha counting",NA
+"279","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling (analytical method unspecified)","Filter sampling (analytical method unspecified)",NA
+"281","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling + combustion + IC","Filter sampling + combustion + IC",NA
+"282","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling + combustion + other","Filter sampling + combustion + other",NA
+"283","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling + extraction + IC","Filter sampling + extraction + IC",NA
+"284","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling + extraction + other","Filter sampling + extraction + other",NA
+"116","","\Atmosphere\Radioactivity\In situ\Filter sampling + gamma spectrometry","Filter sampling + gamma spectrometry",NA
+"285","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Filter sampling + gravimetry","Filter sampling + gravimetry",NA
+"293","","\Atmosphere\Trace gas\In situ\Filter-based methods\Filter sampling + photo multiplier tube (PMT)","Filter sampling + photo multiplier tube (PMT)",NA
+"119","","\Atmosphere\Trace gas\In situ\Flame-ionization detector (FID)","Flame-ionization detector (FID)",NA
+"120","","\Atmosphere\Trace gas\In situ\Flask sampling (analytical method unspecified)","Flask sampling (analytical method unspecified)",NA
+"246","","\Atmosphere\Dynamics\Numerical model\Dispersion\Flexpart (dispersion modeling)","Flexpart (dispersion modeling)",NA
+"247","","\Atmosphere\Dynamics\Numerical model\Trajectories\Flextra (trajectory modeling)","Flextra (trajectory modeling)",NA
+"121","","\Atmosphere\Total atmospheric deposition\In situ\Flow injection analyzer (FIA)","Flow injection analyzer (FIA)",NA
+"122","","\Atmosphere\Trace gas\In situ\Fluorescence","Fluorescence",NA
+"294","","\Atmosphere\Trace gas\In situ\Fluorescence\Fluorescence [general]","Fluorescence [general]",NA
+"123","","\Atmosphere\Micrometeorology\In situ\Flux variance method","Flux variance method",NA
+"322","","\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\Fourier-transform IR spectroscopy (FTIR)","Fourier-transform IR spectroscopy (FTIR)",NA
+"124","","\Atmosphere\Trace gas\In situ\Gas chromatography","Gas chromatography",NA
+"297","","\Atmosphere\Trace gas\In situ\Gas chromatography\Gas Chromatography (GC) [general]","Gas Chromatography (GC) [general]",NA
+"298","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-ECD","GC-ECD",NA
+"299","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-ECD/FID","GC-ECD/FID",NA
+"300","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-ECD/MS","GC-ECD/MS",NA
+"301","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-FID","GC-FID",NA
+"302","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-HgO reduction/UV absorption","GC-HgO reduction/UV absorption",NA
+"303","","\Atmosphere\Trace gas\In situ\Gas chromatography\GC-MS","GC-MS",NA
+"261","","\Atmosphere\Precipitation\In situ\Snow\Gradiated pole","Gradiated pole",NA
+"125","","\Atmosphere\Micrometeorology\In situ\Gradient method","Gradient method",NA
+"126","","\Terrestrial\Soil moisture\In situ\Gravimetric method","Gravimetric method",NA
+"127","","\Atmosphere\Precipitation\In situ\Gravimetry [general]","Gravimetry [general]",NA
+"304","","\Atmosphere\Trace gas\In situ\Ion Chromatography (IC)\H2O2 conversion - IC","H2O2 conversion - IC",NA
+"253","","\Atmosphere\Humidity\In situ\Hygrometer\Hair hygrometer/hygrograph","Hair hygrometer/hygrograph",NA
+"128","","\Terrestrial\Soil heat flux\In situ\Heat flux plate","Heat flux plate",NA
+"129","","\Atmosphere\Total atmospheric deposition\In situ\High Performance Liquid Chromatography (HPLC)","High Performance Liquid Chromatography (HPLC)",NA
+"130","","\Atmosphere\Wind\In situ\Hot wire anemometer","Hot wire anemometer",NA
+"24","","\Atmosphere\Clouds\Human observation","Human observation",NA
+"8","","\Atmosphere\Humidity","Humidity",NA
+"131","","\Atmosphere\Humidity\In situ\Hygrometer","Hygrometer",NA
+"254","","\Atmosphere\Humidity\In situ\Hygrometer\Hygrometer [general]","Hygrometer [general]",NA
+"132","","\Atmosphere\Pressure\In situ\Hypsometer (water boiling point)","Hypsometer (water boiling point)",NA
+"248","","\Atmosphere\Dynamics\Numerical model\Trajectories\Hysplit (trajectory modeling)","Hysplit (trajectory modeling)",NA
+"133","","\Atmosphere\Total atmospheric deposition\In situ\ICP-AES","ICP-AES",NA
+"134","","\Atmosphere\Total atmospheric deposition\In situ\ICP-MS","ICP-MS",NA
+"286","","\Atmosphere\Total atmospheric deposition\In situ\Filter-based methods\Impregnated filter","Impregnated filter",NA
+"135","","\Atmosphere\Ozone\In situ\Indian Sonde","Indian Sonde",NA
+"25","","\Atmosphere\Aerosol\In situ","In situ",NA
+"26","","\Atmosphere\Evaporation\In situ","In situ",NA
+"27","","\Atmosphere\Humidity\In situ","In situ",NA
+"28","","\Atmosphere\Micrometeorology\In situ","In situ",NA
+"29","","\Atmosphere\Ozone\In situ","In situ",NA
+"30","","\Atmosphere\Precipitation\In situ","In situ",NA
+"31","","\Atmosphere\Pressure\In situ","In situ",NA
+"32","","\Atmosphere\Radiation\In situ","In situ",NA
+"33","","\Atmosphere\Radioactivity\In situ","In situ",NA
+"34","","\Terrestrial\Soil heat flux\In situ","In situ",NA
+"35","","\Terrestrial\Soil moisture\In situ","In situ",NA
+"36","","\Terrestrial\Soil temperature\In situ","In situ",NA
+"37","","\Atmosphere\Temperature\In situ","In situ",NA
+"38","","\Atmosphere\Total atmospheric deposition\In situ","In situ",NA
+"39","","\Atmosphere\Trace gas\In situ","In situ",NA
+"40","","\Atmosphere\Wind\In situ","In situ",NA
+"307","","\Atmosphere\Trace gas\In situ\Laser-based methods\Integrated cavity output spectroscopy (ICOS)","Integrated cavity output spectroscopy (ICOS)",NA
+"136","","\Atmosphere\Micrometeorology\In situ\Interferential method","Interferential method",NA
+"216","","\Atmosphere\Trace gas\In situ\Ion Chromatography (IC)","Ion Chromatography (IC)",NA
+"137","","\Atmosphere\Total atmospheric deposition\In situ\Ion Chromatography (IC) [general]","Ion Chromatography (IC) [general]",NA
+"255","","\Atmosphere\Humidity\In situ\Hygrometer\IR absorption hygrometer","IR absorption hygrometer",NA
+"314","","\Atmosphere\Trace gas\In situ\Optical spectrometry\IR spectrometry/radiometry [general]","IR spectrometry/radiometry [general]",NA
+"326","","\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Klystron","Klystron",NA
+"249","","\Atmosphere\Dynamics\Numerical model\Trajectories\Lagranto (trajectory modeling)","Lagranto (trajectory modeling)",NA
+"337","","\Atmosphere\Humidity\In situ\Laser-based","Laser-based","Laser-based methods to determine water vapor concentration in the atmosphere."
+"138","","\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods","Laser-based methods",NA
+"139","","\Atmosphere\Trace gas\In situ\Laser-based methods","Laser-based methods",NA
+"140","","\Atmosphere\Clouds\Remote-sensing, active\Laser-based methods","Laser-based methods",NA
+"141","","\Atmosphere\Trace gas\Remote-sensing, active\Laser-based methods","Laser-based methods",NA
+"334","","\Atmosphere\Ozone\Remote-sensing, active\Laser-based methods","Laser-based methods",NA
+"308","","\Atmosphere\Trace gas\In situ\Laser-based methods\Laser induced fluorescence (LIF)","Laser induced fluorescence (LIF)",NA
+"309","","\Atmosphere\Trace gas\In situ\Laser-based methods\Laser photoacoustic spectroscopy (LPAS)","Laser photoacoustic spectroscopy (LPAS)",NA
+"310","","\Atmosphere\Trace gas\In situ\Laser-based methods\Laser spectroscopy [general]","Laser spectroscopy [general]",NA
+"315","","\Atmosphere\Trace gas\In situ\Optical spectrometry\Light absorption photometry","Light absorption photometry",NA
+"143","","\Atmosphere\Humidity\Remote-sensing, active\Light detection and ranging (Lidar)","Light detection and ranging (Lidar)",NA
+"324","","\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods\Light detection and ranging (Lidar)","Light detection and ranging (Lidar)",NA
+"243","","\Atmosphere\Aerosol\Remote-sensing, active\Optical properties\Light detection and ranging (Lidar) profiler","Light detection and ranging (Lidar) profiler",NA
+"269","","\Atmosphere\Temperature\Remote-sensing, active\Light detection and ranging (Lidar) profiler","Light detection and ranging (Lidar) profiler",NA
+"142","","\Atmosphere\Wind\Remote-sensing, passive\Light detection and ranging (LIDAR) profiler","Light detection and ranging (LIDAR) profiler",NA
+"9","","\Atmosphere\Lightning","Lightning",NA
+"229","","\Atmosphere\Aerosol\In situ\Optical properties\Light scattering","Light scattering",NA
+"144","","\Atmosphere\Temperature\In situ\Liquid-in-glass thermometer (mercury-free)","Liquid-in-glass thermometer (mercury-free)",NA
+"252","","\Atmosphere\Humidity\In situ\Dewpoint determination\Lithium chloride (LiCl)","Lithium chloride (LiCl)",NA
+"316","","\Atmosphere\Trace gas\In situ\Optical spectrometry\Long path absorption photometry (LOPAP)","Long path absorption photometry (LOPAP)",NA
+"145","","\Atmosphere\Radiation\In situ\Longwave","Longwave",NA
+"146","","\Atmosphere\Evaporation\In situ\Lysimeter","Lysimeter",NA
+"325","","\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Magnetron","Magnetron",NA
+"147","","\Atmosphere\Micrometeorology\In situ\Mass balance method","Mass balance method",NA
+"148","","\Atmosphere\Trace gas\In situ\Mass spectrometry","Mass spectrometry",NA
+"221","","\Atmosphere\Aerosol\In situ\Composition\Mass Spectrometry (MS) [general]","Mass Spectrometry (MS) [general]",NA
+"259","","\Atmosphere\Humidity\In situ\Psychrometer\Mechanical aspiration","Mechanical aspiration",NA
+"149","","\Atmosphere\Temperature\In situ\Mercury-in-glass thermometer","Mercury-in-glass thermometer",NA
+"150","","\Atmosphere\Pressure\In situ\Microbarometer (dewar)","Microbarometer (dewar)",NA
+"10","","\Atmosphere\Micrometeorology","Micrometeorology",NA
+"151","","\Atmosphere\Radiation\Remote-sensing, passive\Microtops","Microtops",NA
+"152","","\Atmosphere\Humidity\Remote-sensing, passive\Microtops","Microtops",NA
+"153","","\Atmosphere\Ozone\Remote-sensing, passive\Microtops","Microtops",NA
+"154","","\Atmosphere\Temperature\Remote-sensing, passive\Microwave profiler","Microwave profiler",NA
+"155","","\Atmosphere\Humidity\Remote-sensing, passive\Microwave radiometry","Microwave radiometry",NA
+"156","","\Atmosphere\Ozone\Remote-sensing, passive\Microwave radiometry","Microwave radiometry",NA
+"336","","\Atmosphere\Trace gas\Remote-sensing, passive\Microwave radiometry","Microwave radiometry",NA
+"222","","\Atmosphere\Aerosol\In situ\Composition\Monitor for AeRosols and GAses (MARGA)","Monitor for AeRosols and GAses (MARGA)",NA
+"292","","\Atmosphere\Trace gas\In situ\Ion Chromatography (IC)\Monitor for AeRosols and GAses (MARGA) Metrohm","Monitor for AeRosols and GAses (MARGA) Metrohm",NA
+"238","","\Atmosphere\Aerosol\In situ\Physical properties\Multiangle absorption photometry (MAAP)","Multiangle absorption photometry (MAAP)",NA
+"239","","\Atmosphere\Aerosol\In situ\Physical properties\Multistage impactor","Multistage impactor",NA
+"230","","\Atmosphere\Aerosol\In situ\Optical properties\Nephelometry, integrating","Nephelometry, integrating",NA
+"159","","\Terrestrial\Soil moisture\In situ\Neutron probe","Neutron probe",NA
+"157","","\Atmosphere\Total atmospheric deposition\In situ\NILU_O_2","NILU_O_2",NA
+"158","","\Atmosphere\Total atmospheric deposition\In situ\NILU_O_3","NILU_O_3",NA
+"317","","\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive IR (NDIR) absorption","Non-dispersive IR (NDIR) absorption",NA
+"318","","\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive UV (NDUV)","Non-dispersive UV (NDUV)",NA
+"41","","\Atmosphere\Dynamics\Numerical model","Numerical model",NA
+"58","","\Atmosphere\Ozone\Remote-sensing, passive\(Optical) filter Instrument","(Optical) filter Instrument",NA
+"256","","\Atmosphere\Humidity\In situ\Hygrometer\Optical hygrometer","Optical hygrometer",NA
+"240","","\Atmosphere\Aerosol\In situ\Physical properties\Optical particle counter (OPC)","Optical particle counter (OPC)",NA
+"160","","\Atmosphere\Aerosol\In situ\Optical properties","Optical properties",NA
+"161","","\Atmosphere\Aerosol\Remote-sensing, active\Optical properties","Optical properties",NA
+"162","","\Atmosphere\Aerosol\Remote-sensing, passive\Optical properties","Optical properties",NA
+"163","","\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry","Optical spectrometry",NA
+"164","","\Atmosphere\Trace gas\In situ\Optical spectrometry","Optical spectrometry",NA
+"165","","\Atmosphere\Trace gas\Remote-sensing, active\Optical spectrometry","Optical spectrometry",NA
+"11","","\Atmosphere\Ozone","Ozone",NA
+"166","","\Atmosphere\Ozone\In situ\Ozone sonde (unspecified)","Ozone sonde (unspecified)",NA
+"223","","\Atmosphere\Aerosol\In situ\Composition\Particle induced x-ray emission (PIXE)","Particle induced x-ray emission (PIXE)",NA
+"224","","\Atmosphere\Aerosol\In situ\Optical properties\Particle soot absorption photometry (PSAP)","Particle soot absorption photometry (PSAP)",NA
+"167","","\Atmosphere\Trace gas\In situ\Passive Samplers [general]","Passive Samplers [general]",NA
+"168","","\Atmosphere\Total atmospheric deposition\In situ\Photoacoustic detection","Photoacoustic detection",NA
+"291","","\Atmosphere\Trace gas\In situ\Chemiluminescence\Photolytic conversion - CL","Photolytic conversion - CL",NA
+"169","","\Atmosphere\Aerosol\In situ\Physical properties","Physical properties",NA
+"332","","\Atmosphere\Wind\Pilot balloon with optical tracking)","Pilot balloon with optical tracking)",NA
+"170","","\Atmosphere\Precipitation\In situ\Pluviograph","Pluviograph",NA
+"171","","\Atmosphere\Ozone\In situ\Potassium iodide (KI) method","Potassium iodide (KI) method",NA
+"172","","\Atmosphere\Total atmospheric deposition\In situ\Potentiometry (ion-selective electrode)","Potentiometry (ion-selective electrode)",NA
+"173","","\Atmosphere\Total atmospheric deposition\In situ\Potentiometry (pH meter)","Potentiometry (pH meter)",NA
+"12","","\Atmosphere\Precipitation","Precipitation",NA
+"13","","\Atmosphere\Pressure","Pressure",NA
+"174","","\Atmosphere\Pressure\In situ\Pressure balance (piston)","Pressure balance (piston)",NA
+"175","","\Atmosphere\Wind\In situ\Pressure plate (solid blade)","Pressure plate (solid blade)",NA
+"176","","\Atmosphere\Wind\In situ\Pressure tube","Pressure tube",NA
+"177","","\Atmosphere\Wind\In situ\Propeller anemometer","Propeller anemometer",NA
+"313","","\Atmosphere\Trace gas\In situ\Mass spectrometry\Proton transfer reaction mass spectrometry (PTR-MS)","Proton transfer reaction mass spectrometry (PTR-MS)",NA
+"178","","\Atmosphere\Humidity\In situ\Psychrometer","Psychrometer",NA
+"266","","\Atmosphere\Radiation\In situ\Shortwave\Pyranometer (global solar, broadband)","Pyranometer (global solar, broadband)",NA
+"179","","\Atmosphere\Temperature\In situ\Pyranometer (measurement of IR radiation)","Pyranometer (measurement of IR radiation)",NA
+"265","","\Atmosphere\Radiation\In situ\Longwave\Pyrgeometer (global, infrared)","Pyrgeometer (global, infrared)",NA
+"264","","\Atmosphere\Radiation\In situ\Direct solar\Pyrheliometer (direct solar, broadband)","Pyrheliometer (direct solar, broadband)",NA
+"180","","\Atmosphere\Radiation\In situ\Pyrradiometer (total global, UV+IR)","Pyrradiometer (total global, UV+IR)",NA
+"311","","\Atmosphere\Trace gas\In situ\Laser-based methods\Quantum cascade laser (QCL) spectroscopy","Quantum cascade laser (QCL) spectroscopy",NA
+"14","","\Atmosphere\Radiation","Radiation",NA
+"181","","\Atmosphere\Humidity\Remote-sensing, active\Radio acoustic sounding system (RASS)","Radio acoustic sounding system (RASS)",NA
+"182","","\Atmosphere\Temperature\Remote-sensing, active\Radio acoustic sounding system (RASS)","Radio acoustic sounding system (RASS)",NA
+"15","","\Atmosphere\Radioactivity","Radioactivity",NA
+"185","","\Atmosphere\Radioactivity\In situ\Radiochemical Methods [general]","Radiochemical Methods [general]",NA
+"183","","\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)","Radio detection and ranging (Radar)",NA
+"184","","\Atmosphere\Wind\Remote-sensing, active\Radio detection and ranging (Radar) profiler","Radio detection and ranging (Radar) profiler",NA
+"331","","\Atmosphere\Wind\Radiosonde (tracking unspecified)","Radiosonde (tracking unspecified)",NA
+"330","","\Atmosphere\Radiosonde with composite method tracking","Radiosonde with composite method tracking",NA
+"327","","\Atmosphere\Radiosonde with NAVAID","Radiosonde with NAVAID",NA
+"328","","\Atmosphere\Radiosonde with radar tracking","Radiosonde with radar tracking",NA
+"329","","\Atmosphere\Radiosonde with radiotheodolite tracking","Radiosonde with radiotheodolite tracking",NA
+"186","","\Atmosphere\Ozone\In situ\Regener Sonde (chemiluminescence)","Regener Sonde (chemiluminescence)",NA
+"333","","\Atmosphere\Ozone\Remote-sensing, active","Remote-sensing, active",NA
+"42","","\Atmosphere\Aerosol\Remote-sensing, active","Remote-sensing, active",NA
+"43","","\Atmosphere\Clouds\Remote-sensing, active","Remote-sensing, active",NA
+"44","","\Atmosphere\Humidity\Remote-sensing, active","Remote-sensing, active",NA
+"45","","\Atmosphere\Precipitation\Remote-sensing, active","Remote-sensing, active",NA
+"46","","\Atmosphere\Temperature\Remote-sensing, active","Remote-sensing, active",NA
+"47","","\Atmosphere\Trace gas\Remote-sensing, active","Remote-sensing, active",NA
+"48","","\Atmosphere\Visual range\Remote-sensing, active","Remote-sensing, active",NA
+"49","","\Atmosphere\Wind\Remote-sensing, active","Remote-sensing, active",NA
+"50","","\Atmosphere\Aerosol\Remote-sensing, passive","Remote-sensing, passive",NA
+"51","","\Atmosphere\Humidity\Remote-sensing, passive","Remote-sensing, passive",NA
+"52","","\Atmosphere\Lightning\Remote-sensing, passive","Remote-sensing, passive",NA
+"53","","\Atmosphere\Ozone\Remote-sensing, passive","Remote-sensing, passive",NA
+"54","","\Atmosphere\Radiation\Remote-sensing, passive","Remote-sensing, passive",NA
+"55","","\Atmosphere\Temperature\Remote-sensing, passive","Remote-sensing, passive",NA
+"56","","\Atmosphere\Trace gas\Remote-sensing, passive","Remote-sensing, passive",NA
+"57","","\Atmosphere\Wind\Remote-sensing, passive","Remote-sensing, passive",NA
+"187","","\Terrestrial\Soil moisture\In situ\Resistance block tensiometer","Resistance block tensiometer",NA
+"188","","\Atmosphere\Temperature\In situ\Resistance thermometer, thermistor","Resistance thermometer, thermistor",NA
+"59","","\Atmosphere\Precipitation\In situ\(Ruler for) rain gauge","(Ruler for) rain gauge",NA
+"189","","\Atmosphere\Ozone\Remote-sensing, passive\SAOZ (UV-vis diode array spectrometer)","SAOZ (UV-vis diode array spectrometer)",NA
+"241","","\Atmosphere\Aerosol\In situ\Physical properties\Scanning mobility particle sizer (SMPS)","Scanning mobility particle sizer (SMPS)",NA
+"190","","\Atmosphere\Visual range\Remote-sensing, active\Scatterometer","Scatterometer",NA
+"191","","\Atmosphere\Trace gas\In situ\Separation + manometric determination","Separation + manometric determination",NA
+"192","","\Atmosphere\Radiation\In situ\Shortwave","Shortwave",NA
+"193","","\Atmosphere\Precipitation\In situ\Snow","Snow",NA
+"262","","\Atmosphere\Precipitation\In situ\Snow\Snow pillow","Snow pillow",NA
+"16","","\Terrestrial\Soil heat flux","Soil heat flux",NA
+"17","","\Terrestrial\Soil moisture","Soil moisture",NA
+"18","","\Terrestrial\Soil temperature","Soil temperature",NA
+"194","","\Terrestrial\Soil temperature\In situ\Soil thermometer","Soil thermometer",NA
+"195","","\Atmosphere\Temperature\In situ\Sonic thermometer","Sonic thermometer",NA
+"196","","\Atmosphere\Wind\Remote-sensing, active\Sound detection and ranging (Sodar) profiler","Sound detection and ranging (Sodar) profiler",NA
+"267","","\Atmosphere\Radiation\In situ\Shortwave\Spectral pyranometer","Spectral pyranometer",NA
+"197","","\Atmosphere\Radiation\In situ\Sunphotometry/Filter Radiometry","Sunphotometry/Filter Radiometry",NA
+"198","","\Atmosphere\Radiation\In situ\Sunshine duration","Sunshine duration",NA
+"244","","\Atmosphere\Aerosol\Remote-sensing, passive\Optical properties\Sun-tracking photometry","Sun-tracking photometry",NA
+"199","","\Atmosphere\Micrometeorology\In situ\Surface chamber","Surface chamber",NA
+"323","","\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)","TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)",NA
+"19","","\Atmosphere\Temperature","Temperature",NA
+"200","","\Terrestrial\Soil moisture\In situ\Tensiometer","Tensiometer",NA
+"3","","\Terrestrial","Terrestrial",NA
+"270","","\Atmosphere\Total atmospheric deposition\In situ\Chemiluminescence\Tetrachloromercurate (TCM) absorption - CL","Tetrachloromercurate (TCM) absorption - CL",NA
+"201","","\Atmosphere\Temperature\In situ\Thermocouple, thermophile","Thermocouple, thermophile",NA
+"202","","\Atmosphere\Temperature\In situ\Thermometer/-element","Thermometer/-element",NA
+"225","","\Atmosphere\Aerosol\In situ\Composition\Thermo-optical analyzer (Sunset Labs)","Thermo-optical analyzer (Sunset Labs)",NA
+"250","","\Atmosphere\Humidity\In situ\Capacitive method\Thin film capacitance","Thin film capacitance",NA
+"203","","\Terrestrial\Soil moisture\In situ\Time domain reflectometry (TDR)","Time domain reflectometry (TDR)",NA
+"204","","\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer)","Tipping bucket rain gauge (totalizer)",NA
+"205","","\Atmosphere\Trace gas\In situ\Titration","Titration",NA
+"20","","\Atmosphere\Total atmospheric deposition","Total atmospheric deposition",NA
+"21","","\Atmosphere\Trace gas","Trace gas",NA
+"206","","\Atmosphere\Dynamics\Numerical model\Trajectories","Trajectories",NA
+"207","","\Atmosphere\Visual range\Remote-sensing, active\Transmissometer","Transmissometer",NA
+"208","","\Atmosphere\Dynamics\Numerical model\Transport modeling (model unspecified)","Transport modeling (model unspecified)",NA
+"338","","\Atmosphere\Humidity\In situ\Laser-based\Tunable diode lase spectroscopy (TDLS)","Tunable diode lase spectroscopy (TDLS)","Tunable diode lase spectroscopy (TDLS)"
+"209","","\Atmosphere\Total atmospheric deposition\In situ\Turbidity measurement","Turbidity measurement",NA
+"242","","\Atmosphere\Aerosol\In situ\Physical properties\Twomey static thermal diffusion chamber","Twomey static thermal diffusion chamber",NA
+"60","","\Atmosphere\Wind\In situ\(Ultra)sonic anemometer","(Ultra)sonic anemometer",NA
+"260","","\Atmosphere\Precipitation\In situ\Snow\(Ultra)sonic ranger","(Ultra)sonic ranger",NA
+"210","","\Atmosphere\Ozone\Remote-sensing, passive\Umkehr method","Umkehr method",NA
+"1","","\(unknown / unspecified)","(unknown / unspecified)",NA
+"257","","\Atmosphere\Humidity\In situ\Hygrometer\UV absorption hygrometer (Lyman-,"UV absorption hygrometer (Lyman-,NA
+"319","","\Atmosphere\Trace gas\In situ\Optical spectrometry\UV absorption spectrometry/radiometry","UV absorption spectrometry/radiometry",NA
+"295","","\Atmosphere\Trace gas\In situ\Fluorescence\UV fluorescence","UV fluorescence",NA
+"339","","\Atmosphere\Ozone\Remote-sensing, passive\UV spectroradiometry","UV spectroradiometry",NA
+"268","","\Atmosphere\Radiation\In situ\Shortwave\UV/vis spectrometry/radiometry","UV/vis spectrometry/radiometry",NA
+"296","","\Atmosphere\Trace gas\In situ\Fluorescence\Vacuum UV fluorescence","Vacuum UV fluorescence",NA
+"22","","\Atmosphere\Visual range","Visual range",NA
+"211","","\Atmosphere\Precipitation\In situ\Volumetric measurement","Volumetric measurement",NA
+"212","","\Atmosphere\Precipitation\In situ\Weighing type rain gauge (totalizer)","Weighing type rain gauge (totalizer)",NA
+"340","","\Atmosphere\Humidity\In situ\Psychrometer\Wet-bulb thermometer","Wet-bulb thermometer","A thermometer having a bulb that is kept moistened when humidity determinations are being made with a psychrometer. The wet-bulb temperature is the temperature a parcel of air would have if it were cooled to saturation (100% relative humidity) by the evaporation of water into it, with the latent heat being supplied by the parcel."
+"213","","\Atmosphere\Total atmospheric deposition\In situ\Wet Chemical Methods [general]","Wet Chemical Methods [general]",NA
+"23","","\Atmosphere\Wind","Wind",NA
+"214","","\Atmosphere\Wind\In situ\Wind sock (textile tube)","Wind sock (textile tube)",NA
+"215","","\Atmosphere\Wind\In situ\Wind vane (solid blade)","Wind vane (solid blade)",NA
+"226","","\Atmosphere\Aerosol\In situ\Composition\X-ray fluorescence (XRF)","X-ray fluorescence (XRF)",NA

@@ -1,11 +1,11 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-artificialSurfaces,,,Artificial Surfaces and Associated Areas,
-artificialWaterbodiesSnowIce,,,"Artificial Waterbodies, Snow and Ice",
-bareAreas,,,Bare Areas,
-cultivatedManagedTerrestrial,,,Cultivated and Managed Terrestrial Areas,
-cultivatedAquatic,,,Cultivated Aquatic or Regularly Flooded Areas,
-naturalSemiNaturalAquatic,,,Natural and Semi-Natural Aquatic or Regularly Flooded Vegetation,
-naturalSemiNaturalTerrestrial,,,Natural and Semi-Natural Terrestrial Vegetation,
-naturalWaterbodiesSnowIce,,,"Natural Waterbodies, Snow and Ice",
-notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-unclassified,,,Unclassified,
+"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"artificialSurfaces","","","Artificial Surfaces and Associated Areas",NA
+"artificialWaterbodiesSnowIce","","","Artificial Waterbodies, Snow and Ice",NA
+"bareAreas","","","Bare Areas",NA
+"cultivatedManagedTerrestrial","","","Cultivated and Managed Terrestrial Areas",NA
+"cultivatedAquatic","","","Cultivated Aquatic or Regularly Flooded Areas",NA
+"naturalSemiNaturalAquatic","","","Natural and Semi-Natural Aquatic or Regularly Flooded Vegetation",NA
+"naturalSemiNaturalTerrestrial","","","Natural and Semi-Natural Terrestrial Vegetation",NA
+"naturalWaterbodiesSnowIce","","","Natural Waterbodies, Snow and Ice",NA
+"notApplicable","","","(not applicable)",NA
+"unclassified","","","(unclassified)",NA
