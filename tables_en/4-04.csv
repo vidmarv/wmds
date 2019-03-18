@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "agriculturalActivity","","\Intervention\Agricultural activity","Agricultural activity",NA
 "avalanche","","\Incident\Environmental\Avalanche","Avalanche",NA
 "biologicalFouling","","\Incident\Environmental\Biological fouling","Biological fouling",NA
@@ -27,7 +27,7 @@
 "hardwareFailure","","\Incident\Technical\Hardware failure","Hardware failure",NA
 "flooding","","\Incident\Severe weather\Heavy precipitation/flooding","Heavy precipitation/flooding",NA
 "windDebris","","\Incident\Severe weather\High wind/ blowing debris","High wind/ blowing debris",NA
-"incident","","\Incident","Incident","An unexpected event  that has (or may have) impacted the observations"
+"incident","","\Incident","Incident","An unexpected event that has (or may have) impacted the observations"
 "infrastructureWorks","","\Intervention\Infrastructure works","Infrastructure works",NA
 "infestation","","\Incident\Environmental\Insect/animal infestation","Insect/animal infestation",NA
 "inspectionAuditing","","\Intervention\Inspection/ auditing ","Inspection/ auditing ","Corrosion of components, seizing"
@@ -57,4 +57,4 @@
 "urbanDevelopment","","\Intervention\Urban development","Urban development",NA
 "vandalism","","\Intervention\Vandalism","Vandalism",NA
 "vegetationTrimming","","\Intervention\Vegetation trimming/ cutting","Vegetation trimming/ cutting",NA
-"volcanicEruption","","\Incident\Environmental\Volcanc erruption/ Ash","Volcanc erruption/ Ash",NA
+"volcanicEruption","","\Incident\Environmental\Volcanic eruption/ Ash","Volcanic eruption/ Ash",NA

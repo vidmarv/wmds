@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "inactive","","","Not in service / inactive","The instrument is deployed but presently not in service"
 "operational","","","Operational","The instrument is declared operational and subject to routine maintenance"
 "testing","","","Testing","The instrument is deployed for testing purposes and the information provided may not be reliable"

@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "airFixed","","","Air (fixed)","Airborne observing facility, at fixed position"
 "airMobile","","","Air (mobile)","Airborne observing facility, moving around"
 "lakeRiverFixed","","","Lake/River (fixed)","Observing facility at lake/river surface, at fixed position"
@@ -9,6 +9,5 @@
 "seaFixed","","","Sea (fixed)","Observing facility at sea surface, at fixed position"
 "seaMobile","","","Sea (mobile)","Observing facility at sea surface, moving around"
 "seaOnIce","","","Sea (on ice)","Observing facility on floating ice, moving with the ice"
-"spaceBased","","","Space-based","Satellite platform in orbit"
 "underwaterFixed","","","Underwater (fixed)","Observing facility under water, at fixed horizontal position"
 "underwaterMobile","","","Underwater (mobile)","Observing facility under water, moving around also horizontally"

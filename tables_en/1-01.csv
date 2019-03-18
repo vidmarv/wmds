@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "576","","\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-)","Acetate (CH3COO-)",NA
 "294","","\Atmosphere\Total Atmospheric Deposition\Acidity/Alkalinity","Acidity/Alkalinity",NA
 "579","","\Atmosphere\Aerosol\Composition\Acidity/Alkalinity, total aerosol","Acidity/Alkalinity, total aerosol",NA
@@ -312,7 +312,7 @@
 "573","","\Atmosphere\Radiation\Solar\Global solar radiation (downwelling)","Global solar radiation (downwelling)",NA
 "574","","\Atmosphere\Radiation\Solar\Global solar radiation (upwelling)","Global solar radiation (upwelling)",NA
 "11","","\Earth\Gravity field","Gravity field","Indicative of the statics and dynamics of the lithosphere and the mantle - Physical unit: [ mGal ] where : 1 Gal = 0.01 m.s<sup>-2</sup>"
-"12","","\Earth\Gravity gradients","Gravity gradients","Gradient of the EarthÂ¿ gravity field measured at the satellite orbital height - Physical unit: [ E ] , E?tv?s (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."
+"12","","\Earth\Gravity gradients","Gravity gradients","Gradient of the Earth¿ gravity field measured at the satellite orbital height - Physical unit: [ E ] , E?tv?s (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."
 "10023","","\Atmosphere\Gas\Greenhouse Gas","Greenhouse Gas",NA
 "10099","","\Terrestrial\Land surface\Greenhouse Gas","Greenhouse Gas",NA
 "10115","","\Ocean\Greenhouse Gas","Greenhouse Gas",NA
@@ -351,11 +351,11 @@
 "296","","\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH","Hydrogen ion (H+) or pH",NA
 "522","","\Atmosphere\Visibility\Obscurations\Hydrometeor radius","Hydrometeor radius",NA
 "523","","\Atmosphere\Visibility\Obscurations\Hydrometeor type","Hydrometeor type",NA
-"413","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 Â¿m equivalent","Hygroscopic growth factor, 110 Â¿m equivalent",NA
-"414","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 Â¿m equivalent","Hygroscopic growth factor, 165 Â¿m equivalent",NA
-"415","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 Â¿m equivalent","Hygroscopic growth factor, 35 Â¿m equivalent",NA
-"416","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 Â¿m equivalent","Hygroscopic growth factor, 50 Â¿m equivalent",NA
-"417","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 Â¿m equivalent","Hygroscopic growth factor, 75 Â¿m equivalent",NA
+"413","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 ¿m equivalent","Hygroscopic growth factor, 110 ¿m equivalent",NA
+"414","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 ¿m equivalent","Hygroscopic growth factor, 165 ¿m equivalent",NA
+"415","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 ¿m equivalent","Hygroscopic growth factor, 35 ¿m equivalent",NA
+"416","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 ¿m equivalent","Hygroscopic growth factor, 50 ¿m equivalent",NA
+"417","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 ¿m equivalent","Hygroscopic growth factor, 75 ¿m equivalent",NA
 "418","","\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",NA
 "497","","\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)","i-C4H10 (2-methylpropane, iso-butane)",NA
 "498","","\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)","i-C4H8 (2-methylpropene, iso-butene)",NA
@@ -584,8 +584,8 @@
 "77","","\Ocean\Topography\Sea surface height anomaly (SSHA)","Sea surface height anomaly (SSHA)","Sea surface height anomaly"
 "742","","\Ocean\Topography\Sea surface height (SSH, OST)","Sea surface height (SSH, OST)",NA
 "75","","\Ocean\Miscellaneous\Sea surface Mass Flux","Sea surface Mass Flux","Sea Surface Mass Flux"
-"92","","\Ocean\Basic Physical Properties\Sea surface salinity","Sea surface salinity","Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be Â¿halinityÂ¿ with reference of the diversity of salts involved."
-"95","","\Ocean\Basic Physical Properties\Sea surface temperature","Sea surface temperature","Temperature of the sea water at surface. The Â¿bulkÂ¿ temperature refers to the depth of typically 2 m, the Â¿skinÂ¿ temperature refers to within the upper 1 mm. "
+"92","","\Ocean\Basic Physical Properties\Sea surface salinity","Sea surface salinity","Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be ¿halinity¿ with reference of the diversity of salts involved."
+"95","","\Ocean\Basic Physical Properties\Sea surface temperature","Sea surface temperature","Temperature of the sea water at surface. The ¿bulk¿ temperature refers to the depth of typically 2 m, the ¿skin¿ temperature refers to within the upper 1 mm. "
 "710","","\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol","Selenium (Se), total aerosol",NA
 "203","","\Atmosphere\Gas\Greenhouse Gas\SF6","SF6",NA
 "509","","\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance","Short-wave cloud reflectance","Reflectance of the solar radiation from clouds "

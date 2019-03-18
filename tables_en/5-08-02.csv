@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "laboratory","","","Laboratory","Instrument control activity performed in the laboratory"
 "onSite","","","On site","Instrument control activity performed on site"
 "remote","","","Remote","Instrument control activity performed remotely"

@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "gnss","","","Global navigation satellite system (GNSS)","A Global Navigation Satellite System (GNSS) signal controlled clock, which receives a signal that comes from the atomic clock of a GNSS constellation of satellites."
 "manualComparison","","","Manual comparison","A regular procedure of manual comparison with a reference clock"
 "radioClock","","","Radio clock","A radio controlled clock, which receives a radio signal that comes from a reference/atomic clock."

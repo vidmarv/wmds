@@ -1,4 +1,4 @@
-"WMO306CD_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Definition_e"
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
 "urbanBuiltup","","","Artificial surfaces and associated areas (Urban areas >50%)",NA
 "bareAreas","","","Bare areas",NA
 "closedDeciduousBroadleafForest","","","Closed (>40%) broadleaved deciduous forest (>5m)",NA
@@ -14,7 +14,7 @@
 "mosaicForest","","","Mosaic forest or shrubland (50-70%) / grassland (20-50%)",NA
 "mosaicGrassland","","","Mosaic grassland (50-70%) / forest or shrubland (20-50%) ",NA
 "mosaicVegetation","","","Mosaic vegetation (grassland/shrubland/forest) (50-70%) / cropland (20-50%) ",NA
-"unclassified","","","No data (burnt areas, clouds,Â¿)",NA
+"unclassified","","","No data (burnt areas, clouds,¿)",NA
 "openDeciduousBroadleafForest","","","Open (15-40%) broadleaved deciduous forest/woodland (>5m)",NA
 "openDeciduousEvergreenNeedleleafForest","","","Open (15-40%) needleleaved deciduous or evergreen forest (>5m)",NA
 "snowIce","","","Permanent snow and ice",NA
