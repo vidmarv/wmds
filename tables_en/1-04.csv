@@ -1,0 +1,8 @@
+"Notation_efrs","QualityFlagSysURL_efrs","Path_e","Name_e","Description_e"
+"area","","","Area","a two-dimensional feature, either a plane, or some other surface"
+"line","","","Line","a one-dimensional feature, either a straight line, or a curve; synonmous with trajectory"
+"point","","","Point","a zero-dimensional feature"
+"totalColumn","","","Total column","the integral of the vertical distribution of a feature"
+"unspecified","","","(unspecified)","observing geometry unspecified "
+"verticalProfile","","","Vertical profile","synonymous to vertical distribution of a feature"
+"volume","","","Volume","a three-dimensional feature"
