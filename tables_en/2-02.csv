@@ -12,7 +12,7 @@ AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). T
 AMDAR,\WIGOS\GOS\GOS Other elements\ABOS\AMDAR,AMDAR,Aircraft Meteorological DAta Relay
 ANTON,\WIGOS\GOS\GOS Surface networks\ANTON,ANTON,Antarctic Observing Network surface synoptic station (SYNOP/CLIMAT)
 ANTONt,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
-globalAOD,\WIGOS\GAW\GAW Other elements\AOD,AOD,Aerosol Optical Depth
+AOD,\WIGOS\GAW\GAW Other elements\AOD,AOD,Aerosol Optical Depth
 AOML,\Co-sponsored\GOOS\DBCP\AOML,AOML,NA
 AOMLeSurfmar,\Co-sponsored\GOOS\DBCP\AOML-E-SURFMAR,AOML-E-SURFMAR,NA
 AOMLMFDB,\Co-sponsored\GOOS\DBCP\AOML-MF DB,AOML-MF DB,NA
