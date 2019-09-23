@@ -1,0 +1,11 @@
+name,description,notation
+"(unknown)","not specified","unknown"
+"Open face (ambient)","sampling of particles without size cut-off at ambient temperature and relative humidity","openFaceAmb"
+"Open face (heated)","sampling of particles without size cut-off at elevated temperature and therefore reduced relative humidity (normally <40% RH)","openFaceHeat"
+"PM10 (ambient)","sampling of particles with size cut-off at 10 µm and at ambient temperature and relative humidity","pm10Amb"
+"PM10 (heated)","sampling of particles with size cut-off at 10 µm and at elevated temperature and therefore reduced relative humidity (normally <40% RH) at elevated temperature and therefore reduced relative humidity (normally <40% RH)","pm10Heat"
+"PM2.5 (ambient)","sampling of particles with size cut-off at 2.5 µm and at ambient temperature and relative humidity","pm25Amb"
+"PM2.5 (heated)","sampling of particles with size cut-off at 2.5 µm and at elevated temperature and therefore reduced relative humidity (normally <40% RH) at elevated temperature and therefore reduced relative humidity (normally <40% RH)","pm25Heat"
+"PM1 (ambient)","sampling of particles with size cut-off at 1 µm and at ambient temperature and relative humidity","pm1Amb"
+"PM1 (heated)","sampling of particles with size cut-off at 1 µm and at elevated temperature and therefore reduced relative humidity (normally <40% RH) at elevated temperature and therefore reduced relative humidity (normally <40% RH)","pm1Heat"
+"(inapplicable)","inapplicable","inpplicable"
